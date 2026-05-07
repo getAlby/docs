@@ -63,7 +63,7 @@ This is the name of the App Connection, which you can define by yourself. Here i
 
 By connecting an app to your Hub, you are authorizing the app to make and receive payments on your behalf. That's great because you can pay directly in every connected app without having to switch apps. Before you had to stop using the app, navigate to your wallet app and execute a payment there.&#x20;
 
-To ensure 3rd party apps cannot access all your spending balance, you are able to set budgets. These budgets only refer to the according app connection.&#x20;
+To ensure 3rd party apps cannot access all your lightning balance, you are able to set budgets. These budgets only refer to the according app connection.&#x20;
 
 In this case you authorize your Alby Account to make payments of 1,000,000 in total. That sounds a lot, but keep in mind, that you use the Alby Browser Extension and a few more apps with your Alby Account.&#x20;
 

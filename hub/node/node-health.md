@@ -45,5 +45,5 @@ Alby maintains a list of realiable and well connected channel partners for the b
 ***
 
 {% hint style="success" %}
-Great job on making your Alby Hub unstoppable! 💪 Keep the heart symbol above 60% by ensuring enough Spending Balance and Receiving Capacity. Have multiple channel partners, maintain a healthy balance of liquidity, aim for bigger channels, and choose reliable peers for better payment success. You're doing awesome! ❤️
+Great job on making your Alby Hub unstoppable! 💪 Keep the heart symbol above 60% by ensuring enough Lightning Balance and Receiving Capacity. Have multiple channel partners, maintain a healthy balance of liquidity, aim for bigger channels, and choose reliable peers for better payment success. You're doing awesome! ❤️
 {% endhint %}

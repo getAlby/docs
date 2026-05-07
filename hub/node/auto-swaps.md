@@ -29,7 +29,7 @@ You define rules (threshold, swap amount and destination) and Alby Hub takes car
 2. Switch to the "Swap out" tab and click the button "Auto-Swaps" at the top right
 3. Configure auto-swap
    1. Destination (bitcoin address or xpub)
-   2. Spending Balance Threshold (the swap will be triggered by exceeding this amount)
+   2. Lightning Balance Threshold (the swap will be triggered by exceeding this amount)
    3. Swap Amount&#x20;
 4. Auto-Swaps will now be automatically performed, you'll see them show up in the transaction list
 

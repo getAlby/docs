@@ -16,8 +16,8 @@ You want to increase your receiving capacity and therefore open a payment channe
 
 Open a payment channel with your own BTC will incur one onchain transaction and cost less than purchasing a channel as described before. Note, you'll have to pay for another transaction when you close the channel. But this can be at a later point in time.&#x20;
 
-{% content-ref url="../node/advanced-increase-spending-balance-with-on-chain-bitcoin.md" %}
-[advanced-increase-spending-balance-with-on-chain-bitcoin.md](../node/advanced-increase-spending-balance-with-on-chain-bitcoin.md)
+{% content-ref url="../node/advanced-increase-lightning-balance-with-on-chain-bitcoin.md" %}
+[advanced-increase-lightning-balance-with-on-chain-bitcoin.md](../node/advanced-increase-lightning-balance-with-on-chain-bitcoin.md)
 {% endcontent-ref %}
 
 

@@ -116,7 +116,7 @@ In the lightning network, payment channels can close in different ways. The two 
 **Force Close:** A force close happens for different reasons. To make sure the channel partner does not cheat, there is a time lock that prevents the funds from being spent for a certain period. The consequence might be a waiting time of around 14 days until your see your bitcoin appear in your onchain balance.&#x20;
 
 **Important:**\
-&#xNAN;_&#x49;n both cases only the spending balance of a channel returns to the on-chain balance._
+&#xNAN;_&#x49;n both cases only the lightning balance of a channel returns to the on-chain balance._
 
 {% content-ref url="faq/why-was-my-lightning-channel-closed-and-what-to-do-next.md" %}
 [why-was-my-lightning-channel-closed-and-what-to-do-next.md](faq/why-was-my-lightning-channel-closed-and-what-to-do-next.md)
@@ -283,7 +283,7 @@ In Alby Hub you interact with LSPs when you Increase your Receiving Capacity.
 
 ### Liquidity
 
-The available funds within lightning payment channels that enable sending and receiving transactions. Comes in two forms: outbound liquidity (your spending balance) and inbound liquidity (your receiving capacity). Proper liquidity management is essential for Lightning Network functionality: you need outbound liquidity to send and inbound liquidity to receive.
+The available funds within lightning payment channels that enable sending and receiving transactions. Comes in two forms: outbound liquidity (your lightning balance) and inbound liquidity (your receiving capacity). Proper liquidity management is essential for Lightning Network functionality: you need outbound liquidity to send and inbound liquidity to receive.
 
 ***
 
@@ -443,9 +443,9 @@ In you Alby Hub you have two types of private keys: for your bitcoin onchain wal
 
 ***
 
-### Spending Balance
+### Lightning Balance
 
-The amount of sats you can send through your lightning channels, also called "outbound liquidity" or more rarely "local balance." This is your portion of the channel funds. To increase spending balance, receive payments, perform a top-up, perform onchain-> offchain swaps, or open new channels with funds on your side.&#x20;
+The amount of sats you can send through your lightning channels, also called "outbound liquidity" or more rarely "local balance." This is your portion of the channel funds. To increase your lightning balance, receive payments, perform a top-up, perform onchain-> offchain swaps, or open new channels with funds on your side.&#x20;
 
 ***
 
@@ -463,7 +463,7 @@ You will be able to migrate your Alby Hub from one hardware or cloud to another.
 
 ### Swap
 
-An atomic exchange that converts funds between onchain Bitcoin and lightning network balance, or redistributes liquidity between channels. Submarine swaps move onchain funds into lightning channels (increasing spending balance), while reverse swaps move lightning funds to onchain addresses. Alby Hub integrates swap functionality for managing liquidity without technical complexity.
+An atomic exchange that converts funds between onchain Bitcoin and lightning network balance, or redistributes liquidity between channels. Submarine swaps move onchain funds into lightning channels (increasing lightning balance), while reverse swaps move lightning funds to onchain addresses. Alby Hub integrates swap functionality for managing liquidity without technical complexity.
 
 ***
 

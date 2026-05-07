@@ -7,7 +7,7 @@ hidden: true
 
 Payment channels are a foundational aspect of the lightning network. They are extremely powerful because they enable near instant and cheap bitcoin transactions. In Alby Hub, there are two main reasons to open a channel.&#x20;
 
-1. Top up your Spending Balance with BTC for spending on apps or sending to friends&#x20;
+1. Top up your Lightning Balance with BTC for spending on apps or sending to friends&#x20;
 2. Ensure you have enough Receiving Capacity to receive tips, boostagrams, or payments
 
 With Alby Hub you are **in control of your funds AND of the transaction fees**, because you choose the channel partner yourself. That's a big advantage over custodial wallets and most non-custodial wallets.

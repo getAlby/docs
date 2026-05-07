@@ -2,7 +2,7 @@
 
 There can be several reasons why the payment for your subscription is still pending. Please go through the following steps:
 
-* [ ] **Make sure you have enough bitcoin in your spending balance.**\
+* [ ] **Make sure you have enough bitcoin in your lightning balance.**\
   Open Alby Hub -> Wallet -> Check your balance
 *   [ ] **Is your Alby Account connected?**\
     Open Alby Hub -> Connections -> Connected Apps -> Verify that your Alby Account is linked<br>

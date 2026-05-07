@@ -20,14 +20,14 @@ This guide applies to the default node implementation of Alby Hub (LDK) only. If
 
 ## Alby Hub with Pro Cloud&#x20;
 
-### On-chain Balance and Spending Balance
+### On-chain Balance and Lightning Balance
 
-**Backup:** Find and backup your 12-word recovery phrase in your Alby Hub [here](faq/how-can-i-backup-my-keys.md)  to recover your On-chain Balance and Spending Balance anytime.&#x20;
+**Backup:** Find and backup your 12-word recovery phrase in your Alby Hub [here](faq/how-can-i-backup-my-keys.md)  to recover your On-chain Balance and Lightning Balance anytime.&#x20;
 
-Your Spending Balance data is securely encrypted using your 12-word recovery phrase and is dynamically updated in your Alby account. \
+Your Lightning Balance data is securely encrypted using your 12-word recovery phrase and is dynamically updated in your Alby account. \
 To see if automatic channel backups are enabled for your Hub go to Settings and select "Backups". &#x20;
 
-**Recover:** Start a new Alby Hub in the same Alby account -> Select "Advanced Setup" -> enter your 12-word recovery phrase. Your On-chain and Spending Balance will be fully restored 🚀.
+**Recover:** Start a new Alby Hub in the same Alby account -> Select "Advanced Setup" -> enter your 12-word recovery phrase. Your On-chain and Lightning Balance will be fully restored 🚀.
 
 {% hint style="info" %}
 As Pro Cloud subscriber you only need to backup your recovery phrase and remember your Alby account.
@@ -35,14 +35,14 @@ As Pro Cloud subscriber you only need to backup your recovery phrase and remembe
 
 ## Alby Hub with Pro&#x20;
 
-### On-chain Balance and Spending Balance
+### On-chain Balance and Lightning Balance
 
-**Backup:** Find and backup your 12-word recovery phrase in your Alby Hub [here](faq/how-can-i-backup-my-keys.md)  to recover your On-chain Balance and Spending Balance anytime.&#x20;
+**Backup:** Find and backup your 12-word recovery phrase in your Alby Hub [here](faq/how-can-i-backup-my-keys.md)  to recover your On-chain Balance and Lightning Balance anytime.&#x20;
 
-Your Spending Balance data is securely encrypted using your 12-word recovery phrase and is dynamically updated in your Alby account. \
+Your Lightning Balance data is securely encrypted using your 12-word recovery phrase and is dynamically updated in your Alby account. \
 To see if automatic channel backups are enabled for your Hub go to Settings and select "Backups". &#x20;
 
-**Recover:** Start a new Alby Hub in the same Alby account -> Select "Advanced Setup" -> enter your 12-word recovery phrase. Your On-chain and Spending Balance will be fully restored 🚀.
+**Recover:** Start a new Alby Hub in the same Alby account -> Select "Advanced Setup" -> enter your 12-word recovery phrase. Your On-chain and Lightning Balance will be fully restored 🚀.
 
 {% hint style="info" %}
 As Pro subscriber you only need to backup your recovery phrase and remember your Alby account.
@@ -56,11 +56,11 @@ As Pro subscriber you only need to backup your recovery phrase and remember your
 
 **Recover:** Enter the 12-word recovery phrase into a new Alby Hub or another bitcoin wallet.
 
-### Spending Balance
+### Lightning Balance
 
 **Backup:** Alby stores a static channel backup automatically in your Alby account.
 
-**Recover:** Use [this app](https://github.com/getAlby/hub-recovery) to recover the sats of your Spending Balance. It asks your channel partners to force-close the channels to your node. Funds from channels may take up to 14 days to return to your on-chain balance. You will need to open new channels to continue sending and receiving transactions.
+**Recover:** Use [this app](https://github.com/getAlby/hub-recovery) to recover the sats of your Lightning Balance. It asks your channel partners to force-close the channels to your node. Funds from channels may take up to 14 days to return to your on-chain balance. You will need to open new channels to continue sending and receiving transactions.
 
 {% hint style="info" %}
 As an Alby account user you only need to backup your recovery phrase.&#x20;
@@ -74,14 +74,14 @@ As an Alby account user you only need to backup your recovery phrase.&#x20;
 
 **Recover:** Enter the 12-word recovery phrase into a new Alby Hub or another bitcoin wallet.
 
-### Spending Balance
+### Lightning Balance
 
 **Backup:** You need to make this backup each time you have a new lighting channel. If new channels were made after the backup, you could risk losing funds.
 
 * Go to the working directory of your Alby Hub
 * Back up the newest file in `.data/ldk/static_channel_backups/`
 
-**Recover:** Use [this app](https://github.com/getAlby/hub-recovery) to recover the sats of your Spending Balance. It asks your channel partners to force-close the channel to your node. Funds from channels may take up to 14 days to return to your on-chain balance. You will need to open new channels to continue sending and receiving transactions.
+**Recover:** Use [this app](https://github.com/getAlby/hub-recovery) to recover the sats of your Lightning Balance. It asks your channel partners to force-close the channel to your node. Funds from channels may take up to 14 days to return to your on-chain balance. You will need to open new channels to continue sending and receiving transactions.
 
 {% hint style="warning" %}
 Without an Alby account you need to manually back up your recovery phrase and create backups of your channels each time you have a new channel. If new channels were made after the backup, you could risk losing funds.&#x20;

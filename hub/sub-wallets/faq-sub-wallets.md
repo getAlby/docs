@@ -6,7 +6,7 @@
 
 <summary>Are the bitcoin lost if a family member or friend deletes the sub-wallet in their app ?</summary>
 
-No, your bitcoin are safe, they haven't disappeared or gone anywhere. They are still part of the spending balance of your Alby Hub.&#x20;
+No, your bitcoin are safe, they haven't disappeared or gone anywhere. They are still part of the lightning balance of your Alby Hub.&#x20;
 
 </details>
 
@@ -14,7 +14,7 @@ No, your bitcoin are safe, they haven't disappeared or gone anywhere. They are s
 
 <summary>Are the bitcoin lost if I delete a sub-wallet from my Alby Hub?</summary>
 
-No, they are not lost. The bitcoin remain part of the spending balance of your Alby Hub. Sub-wallets are only virtuel accounts inside your Alby Hub.
+No, they are not lost. The bitcoin remain part of the lightning balance of your Alby Hub. Sub-wallets are only virtuel accounts inside your Alby Hub.
 
 </details>
 
@@ -37,10 +37,10 @@ For the Alby Hub operator all transactions are visible like for any other bank w
 
 <details>
 
-<summary>Can a sub-wallet have a higher balance than the Alby Hub main spending balance?</summary>
+<summary>Can a sub-wallet have a higher balance than the Alby Hub main lightning balance?</summary>
 
-The total amount in the main Alby Hub spending balance includes all sub-wallets, plus any funds not allocated to any sub-wallet and deposited directly. \
-However, since sub-wallet are only an internal account system one could reduce the main Alby Hub spending balance without reducing the balance of a sub-wallet resulting in a higher balance of the latter. In this case you'll see a warning that your spending balance is too low to honor all balances of sub-wallets.
+The total amount in the main Alby Hub lightning balance includes all sub-wallets, plus any funds not allocated to any sub-wallet and deposited directly. \
+However, since sub-wallet are only an internal account system one could reduce the main Alby Hub lightning balance without reducing the balance of a sub-wallet resulting in a higher balance of the latter. In this case you'll see a warning that your lightning balance is too low to honor all balances of sub-wallets.
 
 </details>
 
@@ -65,7 +65,7 @@ The Alby Hub owner will have to create a new sub-wallet, share the "Connection S
 <summary>How to restore a sub-wallet if the user deletes it?</summary>
 
 If the Alby Hub owner or the user have saved the sub-wallet-specific "Connection Secret", it can be reused. For security and convenience, we recommend using a password manager to store the sub-wallet-specific "Connection Secret." \
-Note: Your sats are still part of the main Alby Hub spending balance and not lost after deletion of any sub-wallet.&#x20;
+Note: Your sats are still part of the main Alby Hub lightning balance and not lost after deletion of any sub-wallet.&#x20;
 
 </details>
 
@@ -82,6 +82,6 @@ Please note: Funds are not transferred over the network but are simply associate
 
 <summary>How do I transfer sats to a sub-wallet?</summary>
 
-After the sub-wallet was created, the sub-wallet appears on the "Connection" page of your Alby Hub. If you open this sub-wallet, you'll see a "Top Up" button to increase its balance, using funds from the main Alby Hub spending balance.&#x20;
+After the sub-wallet was created, the sub-wallet appears on the "Connection" page of your Alby Hub. If you open this sub-wallet, you'll see a "Top Up" button to increase its balance, using funds from the main Alby Hub lightning balance.&#x20;
 
 </details>

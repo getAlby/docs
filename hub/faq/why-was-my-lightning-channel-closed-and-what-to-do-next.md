@@ -45,7 +45,7 @@ Cooperative closures occur when both nodes are online. These are planned closure
 
 ## Recovering from a Channel Closure 🔄
 
-The spending balance inside a closed channel returns to your on-chain balance. If it was a cooperative closure that might happen after a few on-chain block confirmations, if it was a forced closure that can take up to 2 weeks. A closed channel means you may have less receiving and spending capacity, but don’t worry, this is only temporarily until you open a new channel.&#x20;
+The lightning balance inside a closed channel returns to your on-chain balance. If it was a cooperative closure that might happen after a few on-chain block confirmations, if it was a forced closure that can take up to 2 weeks. A closed channel means you may have less receiving and spending capacity, but don’t worry, this is only temporarily until you open a new channel.&#x20;
 
 Channel closures are part of being sovereign in lightning. You cannot really completely remove this unfortunate experience, you can only reduce its frequency as much as you can.&#x20;
 
@@ -59,6 +59,6 @@ If a channel was closed, the best way forward is to **open a new one** 💪. Thi
 
 #### Here is a guide on how to open a channel:&#x20;
 
-{% content-ref url="../node/advanced-increase-spending-balance-with-on-chain-bitcoin.md" %}
-[advanced-increase-spending-balance-with-on-chain-bitcoin.md](../node/advanced-increase-spending-balance-with-on-chain-bitcoin.md)
+{% content-ref url="../node/advanced-increase-lightning-balance-with-on-chain-bitcoin.md" %}
+[advanced-increase-lightning-balance-with-on-chain-bitcoin.md](../node/advanced-increase-lightning-balance-with-on-chain-bitcoin.md)
 {% endcontent-ref %}

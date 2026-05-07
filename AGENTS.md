@@ -4,7 +4,7 @@ Guidance for AI coding agents (Claude Code, Cursor, Copilot, Codex, Aider) worki
 
 ## What this repo is
 
-The public Alby documentation. Pages are written as Markdown files and synced to [GitBook](https://docs.getalby.com), which is the live site. The repo is the source of truth — changes merged here update the published docs.
+The public Alby documentation. Pages are written as Markdown files and synced to [GitBook](https://guides.getalby.com), which is the live site. The repo is the source of truth — changes merged here update the published docs.
 
 Each top-level folder (currently just `hub/`) is a separate GitBook space with its own `SUMMARY.md` and `.gitbook.yaml`.
 

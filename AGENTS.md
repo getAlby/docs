@@ -76,7 +76,7 @@ icon: book-open
 
 For full GitBook authoring guidance — every custom block, frontmatter field, redirect format, monorepo setup, variables/expressions, and pitfalls — install the upstream **`gitbook` skill**:
 
-> https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2F98DviOHe8vonzDstAxFA%2Fskill.md?alt=media&token=0a2d5fa2-ee75-4096-8309-22d66f337388
+> https://gitbook.com/docs/skill.md
 
 For Claude Code, save it under `~/.claude/skills/gitbook/SKILL.md` with YAML frontmatter (`name: gitbook`, a one-line `description`, `user-invocable: false`). Other agents: follow your tool's skill / rules-file convention.
 

@@ -16,7 +16,7 @@ Each top-level folder (currently just `hub/`) is a separate GitBook space with i
 4. **Don't reference the same Markdown file twice in `SUMMARY.md`** — each page has exactly one URL.
 5. **Don't edit files inside `hub/.gitbook/includes/` or `hub/.gitbook/assets/` directly** unless you know what you're doing. Reusable content blocks and uploaded images are typically managed through the GitBook UI.
 6. **Match terminology to the product.** The product is Alby Hub (the wallet). Use the same nouns the UI uses (e.g. "Lightning Balance", not "Spending Balance"; "App Connections", not "NWC apps").
-7. **Don't introduce raw HTML tables for layout.** Use GitBook's custom blocks (`{% tabs %}`, `{% columns %}`, `{% hint %}`) — see the skill below for syntax.
+7. **Use Markdown tables for tabular data.** Avoid HTML tables for layout (cards, columns) — use GitBook's custom blocks (`{% tabs %}`, `{% columns %}`, `{% hint %}`) instead. See the skill below for syntax.
 
 ## Writing style and tone
 
@@ -35,10 +35,10 @@ The current docs are written in a friendly, conversational, second-person voice.
 
 - **Excessive cheerleading.** One "Congrats!" or "🎉" at the end of a multi-step tutorial is fine. Adding "Awesome!", "Great!", "Amazing!", "💪" between every step makes the docs feel infantile and dilutes real success moments. Default to none; add one only when the user has actually accomplished something meaningful.
 - **Decorative emoji on every heading.** Existing pages already use emoji heavily (🚀 💪 🎉 ❤️ 🚰). Don't add more unless they serve as wayfinding (e.g. matching a sidebar icon).
-- **Intensifiers** like "super exciting", "extremely powerful", "highly recommended", "truly empowering". Cut them — the facts speak louder.
+- **Intensifiers** like "super exciting", "extremely powerful", "highly recommended", "truly empowering". Cut them.
 - **Marketing copy in reference docs.** FAQ entries, glossary definitions, and step-by-step guides should be informative first. Save enthusiasm for landing-page-style intros.
 - **Defining terms the reader already knows.** If they're reading the swaps page, they know what bitcoin and the lightning network are. Skip the primer.
-- **Inconsistent terminology in the same page.** Pick "on-chain" or "onchain" and stick with it. (The repo uses both today; existing pages should be migrated only as part of a deliberate cleanup, not casually.)
+- **Inconsistent terminology in the same page.** Prefer `on-chain` (hyphenated) — it's the dominant spelling in the repo and matches the product UI ("On-chain Balance"). The repo has historical `onchain` usages; don't mass-rename, but new copy should use `on-chain`.
 
 **Conventions to follow**
 

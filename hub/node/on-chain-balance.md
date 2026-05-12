@@ -16,8 +16,8 @@ description: Your On-chain Balance is an on-chain bitcoin wallet.
 
 A lightning network channel is a special type of on-chain bitcoin transaction.&#x20;
 
-* When opening a channel, you are transferring bitcoin from your **On-Chain Balance** to top up your **Spending Balance.**
-* When a channel is closed, the bitcoins that were on your **Spending Balance** will be relocated to your **On-Chain Balance**.
+* When opening a channel, you are transferring bitcoin from your **On-Chain Balance** to top up your **Lightning Balance.**
+* When a channel is closed, the bitcoins that were on your **Lightning Balance** will be relocated to your **On-Chain Balance**.
 
 <figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption><p>Your on-chain balance can be found in the Node section of your Alby Hub</p></figcaption></figure>
 

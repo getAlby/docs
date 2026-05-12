@@ -28,7 +28,7 @@
   * [🛒 BTCPay Server](app-connections/btcpay-server.md)
 * [🚰 Node](node/README.md)
   * [📥 Increase receiving capacity](node/increase-receiving-capacity.md)
-  * [📤 Advanced: Increase Spending Balance with on-chain bitcoin](node/advanced-increase-spending-balance-with-on-chain-bitcoin.md)
+  * [📤 Advanced: Increase Lightning Balance with on-chain bitcoin](node/advanced-increase-lightning-balance-with-on-chain-bitcoin.md)
   * [❤️ Node Health](node/node-health.md)
   * [💰 On-chain Balance](node/on-chain-balance.md)
   * [🔁 Auto-Swaps](node/auto-swaps.md)

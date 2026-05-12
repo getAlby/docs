@@ -19,7 +19,7 @@ This is an essential task as it ensures that you can always receive a payment. B
 
 ## Swap-out to your Alby Hub on-chain wallet
 
-Transfer bitcoin from your Spending Balance to your On-chain Balance. This will increase your receiving capacity, because it empties your payment channel by the amount you transfer to your on-chain wallet.
+Transfer bitcoin from your Lightning Balance to your On-chain Balance. This will increase your receiving capacity, because it empties your payment channel by the amount you transfer to your on-chain wallet.
 
 {% content-ref url="../wallet/swaps.md" %}
 [swaps.md](../wallet/swaps.md)
@@ -27,7 +27,7 @@ Transfer bitcoin from your Spending Balance to your On-chain Balance. This will 
 
 ## Create receiving capacity by spending
 
-That’s probably the most fun option. If your spending balance is high enough you can simply spend some of your sats in [these apps](https://getalby.com/discover).
+That’s probably the most fun option. If your lightning balance is high enough you can simply spend some of your sats in [these apps](https://getalby.com/discover).
 
 {% hint style="info" %}
 Benefits: You create more receiving capacity and you also support the bitcoin ecosystem as a whole.
@@ -35,7 +35,7 @@ Benefits: You create more receiving capacity and you also support the bitcoin ec
 
 ## Send to another lightning wallet&#x20;
 
-If you have a another lightning wallet or your exchange supports lightning deposits you can send that sats from your spending balance to that wallet. You can send a payment via the Alby Browser Extension or your Hub directly.
+If you have a another lightning wallet or your exchange supports lightning deposits you can send that sats from your lightning balance to that wallet. You can send a payment via the Alby Browser Extension or your Hub directly.
 
 {% content-ref url="../wallet/send.md" %}
 [send.md](../wallet/send.md)

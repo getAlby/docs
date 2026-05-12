@@ -9,7 +9,7 @@ description: >-
 1\.  [Get your Alby web Account ](getting-started.md#get-an-alby-account-for-launching-your-alby-hub)\
 2\. [Launch Alby Hub](getting-started.md#lets-launch)\
 3\. [Connect your Alby Hub to the network and get your first lightning channel](getting-started.md#how-to-open-your-first-payment-channel)\
-4\. [Top up your Spending Balance](getting-started.md#how-to-top-up-your-spending-balance-by-opening-your-first-lightning-channel)\
+4\. [Top up your Lightning Balance](wallet/open-your-first-channel)\
 5\. [Connect your Hub to other apps](getting-started.md#how-to-connect-your-alby-hub-to-other-apps)
 
 ***

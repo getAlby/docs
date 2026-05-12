@@ -4,17 +4,17 @@ description: How to swap bitcoin between your on-chain and lightning balances⚡
 
 # 🔁 Swaps
 
-You can transfer bitcoin between your Alby Hub on-chain balance and your Alby Hub spending balance through a swap, using its existing channels and receiving capacity. ⚡🔄
+You can transfer bitcoin between your Alby Hub on-chain balance and your Alby Hub lightning balance through a swap, using its existing channels and receiving capacity. ⚡🔄
 
 ## Overview:
 
-1. [Swap In](swaps.md#swap-in): Transfer funds from your on-chain balance to your spending balance.
-2. [Swap Out:](swaps.md#swap-out) Transfer funds from your spending balance to your on-chain balance.
+1. [Swap In](swaps.md#swap-in): Transfer funds from your on-chain balance to your lightning balance.
+2. [Swap Out:](swaps.md#swap-out) Transfer funds from your lightning balance to your on-chain balance.
 3. [Set up Auto Swaps](swaps.md#set-up-auto-swaps)
 
 ## Swap In
 
-Transfer funds from your on-chain balance to your spending balance.
+Transfer funds from your on-chain balance to your lightning balance.
 
 ### 1. Navigate to "Wallet" and click on "Swap"
 
@@ -51,7 +51,7 @@ If a **Swap In** fails or doesn't arrive in time, don't worry, your bitcoin are 
 
 ## Swap Out
 
-Transfer funds from your spending balance to your on-chain balance.
+Transfer funds from your lightning balance to your on-chain balance.
 
 ### 1. Navigate to "Wallet" and click on "Swap"
 

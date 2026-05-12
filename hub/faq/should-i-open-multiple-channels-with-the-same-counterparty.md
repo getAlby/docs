@@ -1,6 +1,6 @@
 # Should I open multiple channels with the same counterparty?
 
-You might have encountered the situation where you need more receiving capacity or want to increase your spending balance, and you plan to open a new channel as you did before.
+You might have encountered the situation where you need more receiving capacity or want to increase your lightning balance, and you plan to open a new channel as you did before.
 
 However there are some things to consider.
 

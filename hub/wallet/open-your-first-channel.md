@@ -14,7 +14,7 @@ Open your first lightning payment channel
 Congrats for opening a lightning payment channel. Your Hub is now connected to the lightning network and you are ready to send and receive bitcoin lightning-fast at low cost.
 {% endhint %}
 
-### Top up your spending balance now
+### Top up your lightning balance now
 
 #### From another bitcoin lightning wallet:
 

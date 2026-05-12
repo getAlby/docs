@@ -80,7 +80,7 @@ Alby Hub offers you several options to manage your liquidity:
 
 Great when you need a lot of capacity in the direction of your channel partner
 
-[advanced-increase-spending-balance-with-on-chain-bitcoin.md](../node/advanced-increase-spending-balance-with-on-chain-bitcoin.md "mention")
+[advanced-increase-lightning-balance-with-on-chain-bitcoin.md](../node/advanced-increase-lightning-balance-with-on-chain-bitcoin.md "mention")
 
 #### 3.2 Swaps
 

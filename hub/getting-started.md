@@ -6,10 +6,10 @@ description: >-
 
 # 🚢 Getting Started
 
-1\.  [Get your Alby web Account ](getting-started.md#get-an-alby-account-for-launching-your-alby-hub)\
+1\. [Get your Alby web Account](getting-started.md#get-an-alby-account-for-launching-your-alby-hub)\
 2\. [Launch Alby Hub](getting-started.md#lets-launch)\
 3\. [Connect your Alby Hub to the network and get your first lightning channel](getting-started.md#how-to-open-your-first-payment-channel)\
-4\. [Top up your Lightning Balance](wallet/open-your-first-channel)\
+4\. [Top up your Lightning Balance](getting-started.md#how-to-top-up-your-alby-hub)\
 5\. [Connect your Hub to other apps](getting-started.md#how-to-connect-your-alby-hub-to-other-apps)
 
 ***
@@ -40,11 +40,9 @@ The Alby Account 🐝 is **highly recommended** (though not technically required
 
 **Are you interested in a personal onboarding session? Book one** [**here**](https://cal.com/getalby/alby-hub-onboarding)**. ☎️**
 
-
-
 ***
 
-## **Let's launch!**&#xD83D;�
+## **Let's launch!**��
 
 <figure><img src=".gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
 
@@ -61,11 +59,9 @@ After installing Alby Hub, you’ll see a list of tasks to complete the setup:
 You’ll be guided through each of these steps.\
 By the end, you’ll have full control and sovereignty over your money. 😊
 
-
-
 ***
 
-### How to open your first payment channel 🛢️&#x20;
+### How to open your first payment channel 🛢️
 
 {% embed url="https://demos.getalby.com/demo/clz2zpzys3dozz9kdr9ctnxq3" %}
 
@@ -93,11 +89,11 @@ If the link is lost: On "Connections"->"Connected Apps, click on "Link your Alby
 
 #### Option 1: Receive bitcoin in your Hub
 
-<figure><img src=".gitbook/assets/bC9FMfCQfI (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/bC9FMfCQfI.png" alt=""><figcaption></figcaption></figure>
 
 #### Option 2: Buy bitcoin
 
-<figure><img src=".gitbook/assets/RFdKvMojV6 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/RFdKvMojV6.png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="/broken/pages/eZs8E7lmowA30S1C8jTk" %}
 [Broken link](/broken/pages/eZs8E7lmowA30S1C8jTk)
@@ -112,4 +108,3 @@ If the link is lost: On "Connections"->"Connected Apps, click on "Link your Alby
 {% hint style="success" %}
 🎈 Congratulations! 🎉 This section contains everything you need to get Alby Hub up and running! If you're eager to dive deeper and learn more about Alby Hub.
 {% endhint %}
-

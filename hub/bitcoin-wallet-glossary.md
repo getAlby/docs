@@ -37,8 +37,8 @@ Your Alby Hub is a comprehensive wallet solution, featuring both a lightning wal
 [on-chain-balance.md](node/on-chain-balance.md)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/spaces/WKqqWqKEAO8XHGTjzhEl/pages/3sI3hKSlb0QhSSbP4c0P" %}
-[Broken link](/broken/spaces/WKqqWqKEAO8XHGTjzhEl/pages/3sI3hKSlb0QhSSbP4c0P)
+{% content-ref url="faq/why-do-i-need-to-link-my-alby-account.md" %}
+[why-do-i-need-to-link-my-alby-account.md](faq/why-do-i-need-to-link-my-alby-account.md)
 {% endcontent-ref %}
 
 ***

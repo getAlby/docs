@@ -95,8 +95,8 @@ If the link is lost: On "Connections"->"Connected Apps, click on "Link your Alby
 
 <figure><img src=".gitbook/assets/RFdKvMojV6.png" alt=""><figcaption></figcaption></figure>
 
-{% content-ref url="/broken/pages/eZs8E7lmowA30S1C8jTk" %}
-[Broken link](/broken/pages/eZs8E7lmowA30S1C8jTk)
+{% content-ref url="wallet/buy-bitcoin.md" %}
+[buy-bitcoin.md](wallet/buy-bitcoin.md)
 {% endcontent-ref %}
 
 #### Connect other other apps like Alby Go or the Alby Browser Extension

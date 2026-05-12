@@ -13,7 +13,7 @@ Sometimes, you want to keep our personal wallet separate from the one we use for
 1. [Create a new Sub-wallet](./#create-a-new-sub-wallet)
 2. [Connect a Sub-wallet](./#connect-a-sub-wallet)
 3. [Manage a Sub-wallet](./#manage-a-sub-wallet)
-4. [Link a Sub-wallet with an Alby Account](./#link-a-sub-wallet-with-an-alby-account)<br>
+4. [Link a Sub-wallet with an Alby Account](./#link-a-sub-wallet-to-an-alby-account)<br>
 
 Let's get started by making you the provider of wallets for your projects, friends & family. 👍
 

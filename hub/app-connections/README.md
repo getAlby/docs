@@ -4,7 +4,7 @@ The times of depositing funds in 3rd party apps are over. Let your wallet be you
 
 **Outline**
 
-1. [Your first connections: "Alby Account" important](./#your-first-and-one-of-your-most-important-connections-alby-account)
+1. [Your first connections: "Alby Account" important](./#your-first-connection-alby-account-important)
 2. [Connection window explained](./#connection-window-explained)
 3. [How to connect apps](./#how-to-connect-apps)
 

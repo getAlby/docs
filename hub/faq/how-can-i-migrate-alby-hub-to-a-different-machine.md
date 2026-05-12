@@ -1,9 +1,9 @@
 # How can I migrate Alby Hub to a different machine?
 
-1. [Self-hosted (Free) -> Self-hosted (Free)](how-can-i-migrate-alby-hub-to-a-different-machine.md#id-2.-diy-free-greater-than-diy-free-migration)
-2. [Self-hosted (Pro) -> Self-hosted (Pro)](how-can-i-migrate-alby-hub-to-a-different-machine.md#id-5.-self-hosted-pro-greater-than-self-hosted-pro)
-3. [Self-hosted (Pro) -> Alby Cloud](how-can-i-migrate-alby-hub-to-a-different-machine.md#id-4.-diy-pro-greater-than-cloud-migration)
-4. [Alby Cloud -> Self-hosted (Pro)](how-can-i-migrate-alby-hub-to-a-different-machine.md#id-3.-cloud-greater-than-diy-pro-migration)
+1. [Self-hosted (Free) -> Self-hosted (Free)](how-can-i-migrate-alby-hub-to-a-different-machine.md#id-1.-self-hosted-free-greater-than-self-hosted-free-migration)
+2. [Self-hosted (Pro) -> Self-hosted (Pro)](how-can-i-migrate-alby-hub-to-a-different-machine.md#id-2.-self-hosted-pro-greater-than-self-hosted-pro)
+3. [Self-hosted (Pro) -> Alby Cloud](how-can-i-migrate-alby-hub-to-a-different-machine.md#id-3.-self-hosted-pro-greater-than-alby-cloud-migration)
+4. [Alby Cloud -> Self-hosted (Pro)](how-can-i-migrate-alby-hub-to-a-different-machine.md#id-4.-alby-cloud-greater-than-self-hosted-pro-migration)
 
 ### Important Notice: Please Read Before Continuing
 
@@ -48,7 +48,7 @@ These steps help you move your self-hosted Alby Hub with an active Pro subscript
 
 #### Migration steps&#x20;
 
-1. Follow the same process described in: [Alby Cloud -> Self-hosted Pro migration](how-can-i-migrate-alby-hub-to-a-different-machine.md#id-2.-self-hosted-free-greater-than-self-hosted-free-migration)
+1. Follow the same process described in: [Alby Cloud -> Self-hosted Pro migration](how-can-i-migrate-alby-hub-to-a-different-machine.md#id-1.-self-hosted-free-greater-than-self-hosted-free-migration)
 
 **Note**, at the moment it is not possible to migrate a self-hosted Alby Hub with a Pro subscription with enabled dynamic channels backup to a self-hosted Alby Hub without a subscription. If you would like this feature, please submit a feature request to our [feedback board](https://feedback.getalby.com/-alby-hub-request-a-feature).
 

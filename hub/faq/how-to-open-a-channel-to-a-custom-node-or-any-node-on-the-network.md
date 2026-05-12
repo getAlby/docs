@@ -9,7 +9,7 @@ hidden: true
 
 1. [What is a Lightning channel and a custom node?](how-to-open-a-channel-to-a-custom-node-or-any-node-on-the-network.md#what-is-a-lightning-channel)
 2. [Opening a custom channel](how-to-open-a-channel-to-a-custom-node-or-any-node-on-the-network.md#opening-a-custom-channel)
-3. [Waiting for the channel to open](how-to-open-a-channel-to-a-custom-node-or-any-node-on-the-network.md#waiting-for-the-channel-to-open)
+3. [Waiting for the channel to open](how-to-open-a-channel-to-a-custom-node-or-any-node-on-the-network.md#5-waiting-for-the-channel-to-open)
 
 ***
 

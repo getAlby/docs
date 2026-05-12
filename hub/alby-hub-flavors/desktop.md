@@ -12,7 +12,7 @@ description: >-
 2\. [macOS](desktop.md#macos)\
 3\. [Linux](desktop.md#linux)\
 4\. [Instruction for all systems and download links](desktop.md#all-systems)\
-5\. [Uninstalling and deleting everything](desktop.md#id-5.-uninstalling-and-deleting-everything)
+5\. [Uninstalling and deleting everything](desktop.md#uninstalling-and-deleting-everything)
 
 {% hint style="info" %}
 Alby Hub for desktop is well-suited for self-hosting for users who have a basic understanding of software configuration and network settings, and have their computers online 24/7 in order to send or receive payments.  Therefore, consider this option if you keep the desktop computer **always online**.&#x20;

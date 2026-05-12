@@ -6,9 +6,9 @@ description: '"Don''t panic! Stay cool, stay curious, and keep those channels op
 
 Channel closures are a **protective measure** designed to safeguard your funds 🔒. Nodes may close channels if the counterparty goes offline or becomes unresponsive to keep funds secure.
 
-1\. [Why channels close unexpectedly?](why-was-my-lightning-channel-closed-and-what-to-do-next.md#why-channels-close-unexpectedly) \
+1\. [Why channels close unexpectedly?](why-was-my-lightning-channel-closed-and-what-to-do-next.md#why-channels-close) \
 2\. [How to prevent this?](why-was-my-lightning-channel-closed-and-what-to-do-next.md#how-to-prevent-this)\
-3\. [Forced closures vs cooperative closures](why-was-my-lightning-channel-closed-and-what-to-do-next.md#forced-closures-vs.-manual-closures)\
+3\. [Forced closures vs cooperative closures](why-was-my-lightning-channel-closed-and-what-to-do-next.md#forced-closures-vs.-cooperative-closures)\
 4\. [Recovering from a channel closure](why-was-my-lightning-channel-closed-and-what-to-do-next.md#recovering-from-a-channel-closure)
 
 ***

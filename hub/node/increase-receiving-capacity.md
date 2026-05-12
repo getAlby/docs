@@ -9,8 +9,8 @@ This is an essential task as it ensures that you can always receive a payment. B
 {% endhint %}
 
 * [Buy a channel with receiving capacity included](increase-receiving-capacity.md#buy-a-channel-with-receiving-capacity-included)
-* [Swap-out to your Alby Hub on-chain wallet](increase-receiving-capacity.md#send-to-another-onchain-wallet)
-* [Create receiving capacity by spending](increase-receiving-capacity.md#create-receiving-capacity-yourself)
+* [Swap-out to your Alby Hub on-chain wallet](increase-receiving-capacity.md#swap-out-to-your-alby-hub-on-chain-wallet)
+* [Create receiving capacity by spending](increase-receiving-capacity.md#create-receiving-capacity-by-spending)
 * [Send to another lightning wallet](increase-receiving-capacity.md#send-to-another-lightning-wallet)
 
 ## Buy a channel with receiving capacity included

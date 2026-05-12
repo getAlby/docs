@@ -8,8 +8,8 @@ To send and receive bitcoin payments, you need to open channels to other peers. 
 
 1 . [Private channels](should-i-open-a-private-or-public-channel.md#id-1.-private-channels)\
 2\. [Public channels](should-i-open-a-private-or-public-channel.md#id-2.-public-channels)\
-3\. [Should I open private or public channels?](should-i-open-a-private-or-public-channel.md#id-3.-what-channel-should-i-open-then)\
-4\. [How to choose private or public channels in Alby Hub](should-i-open-a-private-or-public-channel.md#id-4.-choosing-private-or-public)
+3\. [Should I open private or public channels?](should-i-open-a-private-or-public-channel.md#id-3.-should-i-open-private-or-public-channels)\
+4\. [How to choose private or public channels in Alby Hub](should-i-open-a-private-or-public-channel.md#id-4.-how-to-choose-private-or-public-channels-in-alby-hub)
 
 ***
 

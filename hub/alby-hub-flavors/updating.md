@@ -19,7 +19,7 @@ You'll find the current version of your Alby Hub in the top left corner of the a
 &#x20;     2.1.  [Pro Cloud](updating.md#alby-cloud)\
 &#x20;     2.2. [Desktop](updating.md#desktop)\
 &#x20;     2.3. [Docker](updating.md#docker)\
-&#x20;     2.4. [Umbrel, Start9, etc.](updating.md#umbrel-start9-your-own-node)\
+&#x20;     2.4. [Umbrel, Start9, etc.](updating.md#umbrel-start9-etc)\
 &#x20;     2.5. [Ubuntu](updating.md#ubuntu)\
 3 .[ Congratulations!](updating.md#id-3.-congratulations)
 

@@ -7,8 +7,8 @@ description: Master your channels like a pro and keep your bitcoin safe! 💼
 While the channel is open, you will be able to send and receive bitcoin with anyone on the lightning network. You can have more than one channel. And just as you can open channels, you can also close them at will.
 
 1 . [Reasons for closing a channel](how-can-i-close-a-channel-what-happens-to-the-bitcoin-in-this-channel.md#reasons-for-closing-a-channel)\
-2\. [Close a channel](how-can-i-close-a-channel-what-happens-to-the-bitcoin-in-this-channel.md#close-a-channel)\
-3\. [So, where are my bitcoin?](how-can-i-close-a-channel-what-happens-to-the-bitcoin-in-this-channel.md#so-where-are-the-funds)
+2\. [Close a channel](how-can-i-close-a-channel-what-happens-to-the-bitcoin-in-this-channel.md#how-to-close-a-channel)\
+3\. [So, where are my bitcoin?](how-can-i-close-a-channel-what-happens-to-the-bitcoin-in-this-channel.md#so-where-are-my-bitcoin)
 
 ***
 

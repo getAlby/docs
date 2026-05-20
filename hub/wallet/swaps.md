@@ -39,7 +39,7 @@ Swap In needs **1 on‑chain confirmation** (\~10 minutes); once that's done, yo
 
 <figure><img src="../.gitbook/assets/swap4.jpg" alt=""><figcaption></figcaption></figure>
 
-### 5. Congrats. You successfully made a Swap In 🎉&#x20;
+### 5. Congrats. You successfully made a Swap In 🎉
 
 <figure><img src="../.gitbook/assets/swap5.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -61,7 +61,7 @@ Transfer funds from your lightning balance to your on-chain balance.
 
 You can also select an external on-chain wallet. However, please double check the wallet address before proceeding to avoid loss of funds.
 
-<figure><img src="../.gitbook/assets/swapo (2).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/swapo.jpg" alt=""><figcaption></figcaption></figure>
 
 ### 3. Wait for deposit and 2 on-chain confirmations
 
@@ -94,7 +94,7 @@ This is because Swap Out is a two step process. First our swap provider locks up
 
 </details>
 
-### 4. Congrats. You successfully made a Swap Out 🎉&#x20;
+### 4. Congrats. You successfully made a Swap Out 🎉
 
 <figure><img src="../.gitbook/assets/swapo5.jpg" alt=""><figcaption></figcaption></figure>
 

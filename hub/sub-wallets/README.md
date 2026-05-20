@@ -6,7 +6,7 @@ description: >-
 
 # 🏡 Sub-wallets
 
-Sometimes, you want to keep our personal wallet separate from the one we use for **business  projects**, **family members** and **friends**. Here, you can easily create multiple wallets. In Alby Hub they are called sub-wallets.&#x20;
+Sometimes, you want to keep our personal wallet separate from the one we use for **business projects**, **family members** and **friends**. Here, you can easily create multiple wallets. In Alby Hub they are called sub-wallets.
 
 ## Overview
 
@@ -36,8 +36,6 @@ Let's get started by making you the provider of wallets for your projects, frien
 * **Sub-wallet Details:** A list of each sub-wallet showing its custom name, individual balance, and the date it was last used.
 * **Coverage Status:** An indication of whether your assets sufficiently cover the balances of your sub-wallets.
 
-
-
 ### 3. Set a name for the new sub-wallet and click on 'Create Sub-wallet
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-04-21 at 16.59.40.png" alt=""><figcaption></figcaption></figure>
@@ -49,10 +47,8 @@ Let's get started by making you the provider of wallets for your projects, frien
 ### 5. Finish by clicking on Next
 
 {% hint style="success" %}
-**Congratulations!** 🎉 You've successfully created a sub-wallet, a lightning wallet for yourself, your friend or family member, in under a minute!&#x20;
+**Congratulations!** 🎉 You've successfully created a sub-wallet, a lightning wallet for yourself, your friend or family member, in under a minute!
 {% endhint %}
-
-
 
 ## Connect a Sub-wallet
 
@@ -62,7 +58,7 @@ There are different options to connect your sub-wallet to other apps such as **A
 
 {% embed url="https://demos.getalby.com/demo/cmdhtor1b001a150htfbr7gux" %}
 
-1. Open the tab for Alby Go. You'll find links to download the app.&#x20;
+1. Open the tab for Alby Go. You'll find links to download the app.
 2. You also find the connection secret. Open Alby Go to scan or paste this connection secret.
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-04-21 at 19.10.09.png" alt=""><figcaption></figcaption></figure>
@@ -75,7 +71,7 @@ For your security, these connection details are only visible now and cannot be r
 
 {% embed url="https://demos.getalby.com/demo/cmdhsrh0j01cz0c0iit79qmu3" %}
 
-### 1. Select 'Sub-wallets' from the menu on the left side&#x20;
+### 1. Select 'Sub-wallets' from the menu on the left side
 
 ### 2. On the 'Sub-wallet' screen click on the relevant sub-wallet
 
@@ -97,10 +93,8 @@ For your security, these connection details are only visible now and cannot be r
 🎉 Congratulations!
 
 You've successfully learned how to configure multiple types of isolated wallets with just one Hub\
-Try it out and create a sub-wallet yourself. Let us know if there is any feature missing: [Feedback Board](https://feedback.getalby.com/).&#x20;
+Try it out and create a sub-wallet yourself. Let us know if there is any feature missing: [Feedback Board](https://feedback.getalby.com/).
 {% endhint %}
-
-
 
 **Have more questions? Go to the Q\&A!**
 
@@ -108,11 +102,7 @@ Try it out and create a sub-wallet yourself. Let us know if there is any feature
 [faq-sub-wallets.md](faq-sub-wallets.md)
 {% endcontent-ref %}
 
-
-
-
-
 ***
 
-_Thank you for stopping by!_ \
-_This section was created with contributions from Roland, Moritz & Jean-Paul_
+_Thank you for stopping by!_\
+&#xNAN;_&#x54;his section was created with contributions from Roland, Moritz & Jean-Paul_

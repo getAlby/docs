@@ -6,6 +6,8 @@ description: >-
 
 # 🚢 Getting Started
 
+New to Alby Hub? Learn more about the [Alby Hub bitcoin lightning wallet](https://getalby.com/alby-hub) before you launch, or continue with the setup steps below.
+
 1\. [Get your Alby web Account](getting-started.md#get-an-alby-account-for-launching-your-alby-hub)\
 2\. [Launch Alby Hub](getting-started.md#lets-launch)\
 3\. [Connect your Alby Hub to the network and get your first lightning channel](getting-started.md#how-to-open-your-first-payment-channel)\
@@ -16,7 +18,7 @@ description: >-
 
 ## Get an Alby Account🐝 for launching your Alby Hub 🚀
 
-Create your Alby Account on getalby.com.
+Create your Alby Account on [getalby.com](https://getalby.com/).
 
 <figure><img src=".gitbook/assets/image (232).png" alt=""><figcaption></figcaption></figure>
 
@@ -46,14 +48,14 @@ The Alby Account 🐝 is **highly recommended** (though not technically required
 
 <figure><img src=".gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
 
-Follow the onboarding steps, where you can choose between self-hosting Alby Hub or using Alby’s convenient cloud service.
+Follow the onboarding steps, where you can choose between self-hosting [Alby Hub](https://getalby.com/alby-hub) or using Alby’s convenient cloud service.
 
 After installing Alby Hub, you’ll see a list of tasks to complete the setup:
 
 1. Open your first payment channel to connect to the Bitcoin Lightning Network
 2. Connect your Alby Account
 3. Top up your balance
-4. Connect other other apps like the Alby Go mobile app or the Alby Browser Extension
+4. Connect other other apps like the [Alby Go mobile app](https://getalby.com/alby-go) or the [Alby Browser Extension](https://getalby.com/alby-extension)
 5. Store a backup of your wallet recovery phrase offline
 
 You’ll be guided through each of these steps.\

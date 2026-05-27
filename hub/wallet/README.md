@@ -9,7 +9,7 @@ description: >-
 
 ### Introduction
 
-Alby Hub is available everywhere where you want pay with bitcoin: on the web, in apps or on mobile. But of course you can also send and receive bitcoin directly from the Alby Hub itself. <br>
+[Alby Hub](https://getalby.com/alby-hub) is available everywhere where you want pay with bitcoin: on the web, in apps or on mobile. But of course you can also send and receive bitcoin directly from the Alby Hub itself. <br>
 
 <figure><img src="../.gitbook/assets/chrome_jSGiOGoSXi.png" alt=""><figcaption><p>Alby Hub wallet</p></figcaption></figure>
 

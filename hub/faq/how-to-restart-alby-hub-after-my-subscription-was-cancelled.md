@@ -6,7 +6,7 @@ This prevents your Alby Account from accumulating additional charges.
 
 You can restart your Hub anytime following these steps:
 
-1. Go to **getalby.com/subscription/new** and subscribe to **Alby Cloud**.
+1. Go to [**getalby.com/subscription/new**](https://getalby.com/subscription/new) and subscribe to **Alby Cloud**. You can also review [Alby pricing and subscription plans](https://getalby.com/pricing).
 2. Complete the onboarding process or visit **my.albyhub.com** if you left in between.
 3. Click **“Advanced Setup”**&#x20;
 

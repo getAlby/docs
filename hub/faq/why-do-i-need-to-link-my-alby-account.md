@@ -10,15 +10,15 @@ description: >-
 
 All the feature of Alby web Account are now features of your Alby Hub, ain't that awesome?&#x20;
 
-Now that your Alby Hub and Alby Account are linked through a [NWC connection](https://nwc.dev/), your Alby Account becomes the wallet interface for your Alby Hub. This means you can use all the functionalities of your Alby web account with the funds stored in your Alby Hub self-custodial wallet.
+Now that your [Alby Hub](https://getalby.com/alby-hub) and Alby Account are linked through a [NWC connection](https://nwc.dev/), your Alby Account becomes the wallet interface for your Alby Hub. This means you can use all the functionalities of your Alby web account with the funds stored in your Alby Hub self-custodial wallet.
 
 **Some of those functionalities include:**
 
 * A lightning address
 * Payment notifications and reports
 * A personal tipping page
-* Seamless association with the Alby browser extension
-* APIs for developers [👋 Developer Docs](https://app.gitbook.com/o/uiUeRqI074apbV0PWsyf/s/drr3fUtVwSKemryCPRZb/ "mention")
+* Seamless association with the [Alby Browser Extension](https://getalby.com/alby-extension)
+* APIs for developers [👋 Developer Docs](https://app.gitbook.com/o/uiUeRqI074apbV0PWsyf/s/drr3fUtVwSKemryCPRZb/ "mention") and [Alby developer tools](https://getalby.com/developers)
 * V4V tools for podcasting
 * Quicker and comprehensive support
 

@@ -6,7 +6,7 @@ description: >-
 
 # 🏡 Sub-wallets
 
-Sometimes, you want to keep our personal wallet separate from the one we use for **business projects**, **family members** and **friends**. Here, you can easily create multiple wallets. In Alby Hub they are called sub-wallets.
+Sometimes, you want to keep our personal wallet separate from the one we use for **business projects**, **family members** and **friends**. Here, you can easily create multiple wallets. In [Alby Hub](https://getalby.com/alby-hub) they are called sub-wallets.
 
 ## Overview
 
@@ -52,7 +52,7 @@ Let's get started by making you the provider of wallets for your projects, frien
 
 ## Connect a Sub-wallet
 
-There are different options to connect your sub-wallet to other apps such as **Alby Go**, an **Alby Account** or the **Alby Browser Extension** depending on how you or the intended user plan to use it.
+There are different options to connect your sub-wallet to other apps such as [**Alby Go**](https://getalby.com/alby-go), an **Alby Account** or the [**Alby Browser Extension**](https://getalby.com/alby-extension) depending on how you or the intended user plan to use it.
 
 ### Example: Connect your sub-wallet to Alby Go
 

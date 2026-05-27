@@ -1,6 +1,8 @@
 # 🔗 App Connections
 
-The times of depositing funds in 3rd party apps are over. Let your wallet be your hub for payments and connect it to dozens of apps. You remain in control over your funds with your Alby Hub all the time.
+The times of depositing funds in 3rd party apps are over. Let your wallet be your hub for payments and connect it to dozens of apps. You remain in control over your funds with [Alby Hub](https://getalby.com/alby-hub) all the time.
+
+Looking for apps to connect? Explore the [Alby app directory](https://getalby.com/discover). Developers can also use [Alby developer tools](https://getalby.com/developers) to build bitcoin payment apps with NWC.
 
 **Outline**
 
@@ -14,7 +16,7 @@ The times of depositing funds in 3rd party apps are over. Let your wallet be you
 **Linking your Hub with your Alby Account is important for the following reasons:**
 
 * **Get all Alby Account features**: lighting address (e.g. personal@getalby.com for your own node), Nostr identity, podcasting 2.0, payment notifications and more to come.
-* **Use your Alby Hub on all apps connected** with an Alby Account: Alby Browser Extension, podcasting apps, etc. -> [Guides](https://app.gitbook.com/s/WKqqWqKEAO8XHGTjzhEl/connect-to-apps) 🔎
+* **Use your Alby Hub on all apps connected** with an Alby Account: [Alby Browser Extension](https://getalby.com/alby-extension), podcasting apps, etc. -> [Guides](https://app.gitbook.com/s/WKqqWqKEAO8XHGTjzhEl/connect-to-apps) 🔎
 * **Pay for your plan**: As a user you may receive premium services that help you run your Hub. We use this link to your Hub to deduct payments according to the selected plan.
 {% endhint %}
 

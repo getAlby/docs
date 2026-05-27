@@ -11,6 +11,8 @@ description: >-
 This guide applies to the default node implementation of Alby Hub (LDK) only. If you're using a different node backend, please refer to its own documentation for backup instructions.
 {% endhint %}
 
+Because [Alby Hub](https://getalby.com/alby-hub) is self-custodial, keeping a correct backup is essential to stay in control of your bitcoin.
+
 **Jump directly to the setup that applies to you:**
 
 1. [Alby Hub with Pro Cloud](backups-and-recover.md#alby-hub-on-alby-cloud)

@@ -7,6 +7,8 @@ description: >-
 
 # ℹ️ Introduction
 
+[Alby Hub](https://getalby.com/alby-hub) is Alby's self-custodial bitcoin lightning wallet for apps, payments, and everyday use.
+
 
 
 <figure><img src=".gitbook/assets/chrome_oFZF0IDYZF.png" alt=""><figcaption><p>Alby Hub, your self-custodial wallet.</p></figcaption></figure>
@@ -23,8 +25,8 @@ description: >-
 * Sub-wallets for family and friends
 * App marketplace
 * In-app BTC purchases via cards and bank transfers
-* Powers the Alby Browser Extension and Alby Go mobile app
-* Developer APIs and agent Skills
+* Powers the [Alby Browser Extension](https://getalby.com/alby-extension) and [Alby Go mobile app](https://getalby.com/alby-go)
+* [Developer APIs](https://getalby.com/developers) and agent Skills
 
 #### Running Alby Hub is a walk in the park with the Alby's cloud hosting service:&#x20;
 
@@ -32,7 +34,7 @@ description: >-
 * Always online to receive payments 24/7
 * Priority support service
 
-Alternatively, you can install Alby Hub on a server of your choice, your desktop computer, or a simple mini-computer (e.g., Raspberry Pi) and run it from your home.
+Alternatively, you can install [Alby Hub](https://getalby.com/alby-hub) on a server of your choice, your desktop computer, or a simple mini-computer (e.g., Raspberry Pi) and run it from your home.
 
 ### Would you like to become self-sovereign, too?
 

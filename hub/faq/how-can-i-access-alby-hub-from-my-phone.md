@@ -2,7 +2,7 @@
 
 Alby Hub is a progressive web app. Like other mobile apps you can add it to your Home Screen and use it directly on your phone. This is useful if you want to manage your Hub's app connections and channels on your phone.&#x20;
 
-**For the best mobile payment experience we recommend the Alby Go mobile app:**
+**For the best mobile payment experience we recommend the [Alby Go mobile app](https://getalby.com/alby-go):**
 
 {% content-ref url="https://app.gitbook.com/o/uiUeRqI074apbV0PWsyf/s/xKPWjNAI2VDjXMnx1KRF/" %}
 [Alby Go](https://app.gitbook.com/o/uiUeRqI074apbV0PWsyf/s/xKPWjNAI2VDjXMnx1KRF/)

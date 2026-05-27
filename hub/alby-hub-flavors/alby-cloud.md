@@ -6,9 +6,9 @@ description: >-
 
 # 🌤️ Alby Cloud
 
-Alby Hub is a self-custodial wallet that combines convenience and security for Bitcoin payments. With Alby Cloud, you can skip the hassle of setting up your own wallet and instead benefit from a solution that’s online 24/7, highly reliable, and backed by dedicated support.
+Alby Hub is a [self-custodial wallet](https://getalby.com/alby-hub) that combines convenience and security for Bitcoin payments. With Alby Cloud, you can skip the hassle of setting up your own wallet and instead benefit from a solution that’s online 24/7, highly reliable, and backed by dedicated support.
 
-Subscribe to experience the ease and peace of mind that comes with Alby Cloud.&#x20;
+Subscribe to experience the ease and peace of mind that comes with Alby Cloud. You can compare [Alby Cloud pricing](https://getalby.com/pricing) before you start.&#x20;
 
 ## Here is a sneak peek at the Alby Hub
 
@@ -42,7 +42,7 @@ Click here to start your Alby Hub immediately
 
 Alby offers the perfect solution for your Hub with an integrated lightning node, all while ensuring that only you have access to your Alby Hub. This is your very own self-custody wallet, safeguarding your bitcoin and allowing you to send and receive bitcoin seamlessly. Enjoy the ultimate convenience with Alby.
 
-Alby Cloud is perfect if you want an Alby Hub, a powerful self-custodial wallet, without the hassle. In just 2 minutes, you can start your own hub with:
+Alby Cloud is perfect if you want [Alby Hub](https://getalby.com/alby-hub), a powerful self-custodial wallet, without the hassle. In just 2 minutes, you can start your own hub with:
 
 * Alby Hub — self-custodial bitcoin on-chain and lightning wallet
 * Enjoy 24/7 online access to receive payments with lightning address

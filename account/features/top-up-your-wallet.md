@@ -26,7 +26,7 @@ Visit:
 
 You can use an exchange service to acquire bitcoin and send them to your Alby wallet.
 
-Currently we recommend [these exchange services](https://github.com/theDavidCoen/LightningExchanges). In this guide you'll find a detailed step-by-step description for [Binance](https://guides.getalby.com/alby-guides/alby-lightning-account/how-to-top-up-your-wallet-balance/from-an-exchange-service#binance), [Coinbase](top-up-your-wallet.md#coinbase) and [Kraken](top-up-your-wallet.md#kraken).
+Currently we recommend [these exchange services](https://github.com/theDavidCoen/LightningExchanges). In this guide you'll find a detailed step-by-step description for [Binance](top-up-your-wallet.md#binance), [Coinbase](top-up-your-wallet.md#coinbase) and [Kraken](top-up-your-wallet.md#kraken).
 
 #### Binance <a href="#binance" id="binance"></a>
 
@@ -40,7 +40,7 @@ After you acquired bitcoin follow these steps to send bitcoin to your Alby walle
 
 ![](https://guides.getalby.com/user-guide/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2FWKqqWqKEAO8XHGTjzhEl%2Fblobs%2F9RGINOmVAiOJwyXqei21%2Fimage.png\&width=768\&dpr=3\&quality=100\&sign=ef8a1b39\&sv=2)
 
-1. Add a Lightning invoice in the 'Invoice' field. You can use the Alby Browser Extension to create an invoice (learn more [here](../../lightning-browser-extension/features/send-and-receive-bitcoin.md#receive-bitcoin)) or the '[receive](https://getalby.com/node/receive)' tab in your dashboard on getalby.com.
+1. Add a Lightning invoice in the 'Invoice' field. You can use the Alby Browser Extension to create an invoice (learn more [here](https://app.gitbook.com/o/uiUeRqI074apbV0PWsyf/s/iXQV5vKQhxotviCfaO7L/)) or the '[receive](https://getalby.com/node/receive)' tab in your dashboard on getalby.com.
 
 ![](https://guides.getalby.com/user-guide/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2FWKqqWqKEAO8XHGTjzhEl%2Fblobs%2FJMnnTB8gwstN9K1iFrqI%2Fchrome_xBrEZ8N9P6.png\&width=768\&dpr=3\&quality=100\&sign=4c9abcf3\&sv=2)
 
@@ -65,7 +65,7 @@ After you acquired bitcoin follow these steps to send bitcoin to your Alby walle
 
 1. Click on 'Add withdrawal request'. Do not reuse previous withdrawal requests!
 2. Add a label in the 'Request label' field. It helps you to find the withdrawal request again later on.
-3. Add a Lightning invoice in the 'Withdrawal request' field. You can use the Alby Browser Extension to create an invoice. Learn more [here](../../lightning-browser-extension/features/send-and-receive-bitcoin.md#receive-bitcoin). You can also use the '[receive](https://getalby.com/node/receive)' tab in your dashboard on getalby.com.
+3. Add a Lightning invoice in the 'Withdrawal request' field. You can use the Alby Browser Extension to create an invoice. Learn more [here](https://app.gitbook.com/o/uiUeRqI074apbV0PWsyf/s/iXQV5vKQhxotviCfaO7L/). You can also use the '[receive](https://getalby.com/node/receive)' tab in your dashboard on getalby.com.
 
 ![](https://guides.getalby.com/user-guide/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2FWKqqWqKEAO8XHGTjzhEl%2Fblobs%2Fjb77kXCHZlRU5qnS3V9j%2Fchrome_H7S4STSgui.png\&width=768\&dpr=3\&quality=100\&sign=6bd2bf9c\&sv=2)
 
@@ -74,44 +74,23 @@ After you acquired bitcoin follow these steps to send bitcoin to your Alby walle
 3. Navigate back to your Kraken dashboard and select the relevant 'Withdrawal request'
 4. Click on 'Withdraw BTC" (it can take some time until the funds show up in your Alby wallet account)
 
-Did we forget any option to fund your Alby Lightning wallet? Shall we update the guide? [Let us know.](mailto:hello@getalby.com)
+Did we forget any option to fund your Alby Lightning wallet? Shall we update the guide? [Let us know](https://support.getalby.com).
 
 ## Other bitcoin wallet
 
 You can send bitcoin from another bitcoin wallet to top up the balance of your Alby Account.
 
-#### Bitcoin Lightning Network wallets <a href="#lightning" id="lightning"></a>
-
-The bitcoin lightning network is great. It allows you to send bitcoin from any lightning wallet app to Alby... and vice versa! You will find a selection of mobile lightning wallets [here](https://lightningnetworkstores.com/wallets).
-
-There are two ways to receive bitcoin in your Alby wallet:
+There are three ways to receive bitcoin in your Alby wallet:
 
 1. Enter your lightning address \[_yourname_]@getalby.com into the other app. _(You can customize your personal address! Go to:_ [Lightning Address](lightning-address.md)_)_
-2. Or create a lightning invoice in [Alby Hub](../../hub/wallet/receive.md), [Browser Extension](../../lightning-browser-extension/features/send-and-receive-bitcoin.md#receive-bitcoin) or [Alby Go](../../go/connect-send-receive-go.md#receive-bitcoin) and enter it into the other app that you use to top up your wallet.
-
-#### Bitcoin (Onchain) Wallets <a href="#bitcoin-onchain-wallets" id="bitcoin-onchain-wallets"></a>
-
-The lightning network is a decentralized, peer-to-peer network which allows users to transfer bitcoin off-chain instantaneously with very low transaction fees. The lightning network is built on top of the bitcoin network, and is thus called a layer two solution.
-
-The process of bringing bitcoin on-chain to the lightning network is called 'swap'. To see how to deposit bitcoin from a regular on-chain wallet to your Alby lightning wallet, watch this video guide:
-
-[https://youtu.be/RAIq\_74dpu4youtu.be](https://youtu.be/RAIq_74dpu4)
-
-To top up your Alby Account from a bitcoin onchain wallet, you can use one of these services:
-
-* [Boltz Exchange](https://boltz.exchange/?ref=alby)
-* [FixedFloat](https://ff.io/?ref=qnnjvywb)
+2. Or create a lightning invoice in [Alby Hub](https://getalby.com/alby-hub), [Browser Extension](https://getalby.com/alby-hub) or [Alby Go](https://getalby.com/alby-go) and enter it into the other app that you use to top up your wallet.
+3. Send bitcoin to your on-chain address in your [Alby Hub](https://guides.getalby.com/user-guide/alby-hub/node/on-chain-balance).
 
 ## Other crypto wallet
 
 Alby Account uses BTC as its native currency. However, it is possible to convert most cryptocurrencies into bitcoin, and send to your Alby wallet.
 
-#### Crypto wallets <a href="#crypto-wallets" id="crypto-wallets"></a>
-
-To top up your Alby Account with other cryptocurrencies, you can use one of these services:
-
-1. [Boltz Exchange](https://boltz.exchange/?ref=alby)
-2. [FixedFloat](https://ff.io/?ref=qnnjvywb)
+Visit your Alby Hub -> go to the Wallet page -> select Receive -> Click on "Receive from On-chain / Other Cryptocurrency" -> Add the amount -> select "Other Cryptocurrency" -> click "Continue" -> You'll be forwarded to our partner Fixed Float.
 
 ***
 

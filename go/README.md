@@ -8,11 +8,11 @@ description: Alby Go - the easiest to use mobile app for bitcoin lightning payme
 
 ## Introduction
 
-Alby Go is a mobile app that stands out with its simple, user-friendly design and ease of use.&#x20;
+Alby Go is a mobile app that stands out with its simple, user-friendly design and ease of use.
 
-After connecting one or more wallets, with two buttons (send & receive) you can transact globally right away.&#x20;
+After connecting one or more wallets, with two buttons (send & receive) you can transact globally right away.
 
-Alby Go can be linked to any NWC ([Nostr Wallet Connect](https://nwc.dev))-powered lightning node and wallet. It works best with [Alby Hub](https://albyhub.com), a self-custodial wallet with the easiest to use lightning node, accessible from anywhere to integrate with dozens of apps. If you are new to Hub, start with the [Alby Hub guide](../hub/) before connecting it to Alby Go.
+Alby Go can be linked to any NWC ([Nostr Wallet Connect](https://nwc.dev))-powered lightning node and wallet. It works best with [Alby Hub](https://albyhub.com), a self-custodial wallet with the easiest to use lightning node, accessible from anywhere to integrate with dozens of apps. If you are new to Alby Hub, start with the [Alby Hub guide](https://guides.getalby.com/user-guide/alby-hub) before connecting it to Alby Go.
 
 {% hint style="info" %}
 You'll find a list of compatible wallets at: [https://nwc.dev/](https://nwc.dev/)

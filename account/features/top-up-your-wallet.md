@@ -40,7 +40,7 @@ After you acquired bitcoin follow these steps to send bitcoin to your Alby walle
 
 ![](https://guides.getalby.com/user-guide/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2FWKqqWqKEAO8XHGTjzhEl%2Fblobs%2F9RGINOmVAiOJwyXqei21%2Fimage.png\&width=768\&dpr=3\&quality=100\&sign=ef8a1b39\&sv=2)
 
-1. Add a Lightning invoice in the 'Invoice' field. You can use the Alby Browser Extension to create an invoice (learn more [here](https://guides.getalby.com/user-guide/browser-extension/features/send-and-receive-bitcoin#receive-bitcoin)) or the '[receive](https://getalby.com/node/receive)' tab in your dashboard on getalby.com.
+1. Add a Lightning invoice in the 'Invoice' field. You can use the Alby Browser Extension to create an invoice (learn more [here](../../lightning-browser-extension/features/send-and-receive-bitcoin.md#receive-bitcoin)) or the '[receive](https://getalby.com/node/receive)' tab in your dashboard on getalby.com.
 
 ![](https://guides.getalby.com/user-guide/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2FWKqqWqKEAO8XHGTjzhEl%2Fblobs%2FJMnnTB8gwstN9K1iFrqI%2Fchrome_xBrEZ8N9P6.png\&width=768\&dpr=3\&quality=100\&sign=4c9abcf3\&sv=2)
 
@@ -65,7 +65,7 @@ After you acquired bitcoin follow these steps to send bitcoin to your Alby walle
 
 1. Click on 'Add withdrawal request'. Do not reuse previous withdrawal requests!
 2. Add a label in the 'Request label' field. It helps you to find the withdrawal request again later on.
-3. Add a Lightning invoice in the 'Withdrawal request' field. You can use the Alby Browser Extension to create an invoice. Learn more [here](https://guides.getalby.com/user-guide/browser-extension/features/send-and-receive-bitcoin#receive-bitcoin). You can also use the '[receive](https://getalby.com/node/receive)' tab in your dashboard on getalby.com.
+3. Add a Lightning invoice in the 'Withdrawal request' field. You can use the Alby Browser Extension to create an invoice. Learn more [here](../../lightning-browser-extension/features/send-and-receive-bitcoin.md#receive-bitcoin). You can also use the '[receive](https://getalby.com/node/receive)' tab in your dashboard on getalby.com.
 
 ![](https://guides.getalby.com/user-guide/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2FWKqqWqKEAO8XHGTjzhEl%2Fblobs%2Fjb77kXCHZlRU5qnS3V9j%2Fchrome_H7S4STSgui.png\&width=768\&dpr=3\&quality=100\&sign=6bd2bf9c\&sv=2)
 
@@ -86,8 +86,8 @@ The bitcoin lightning network is great. It allows you to send bitcoin from any l
 
 There are two ways to receive bitcoin in your Alby wallet:
 
-1. Enter your lightning address \[_yourname_]@getalby.com into the other app. _(You can customize your personal address! Go to:_ [Lightning Address](https://guides.getalby.com/user-guide/alby-account/features/lightning-address)_)_
-2. Or create a lightning invoice in Alby Hub, Browser Extension or Go and enter it into the other app that you use to top up your wallet.
+1. Enter your lightning address \[_yourname_]@getalby.com into the other app. _(You can customize your personal address! Go to:_ [Lightning Address](lightning-address.md)_)_
+2. Or create a lightning invoice in [Alby Hub](../../hub/wallet/receive.md), [Browser Extension](../../lightning-browser-extension/features/send-and-receive-bitcoin.md#receive-bitcoin) or [Alby Go](../../go/connect-send-receive-go.md#receive-bitcoin) and enter it into the other app that you use to top up your wallet.
 
 #### Bitcoin (Onchain) Wallets <a href="#bitcoin-onchain-wallets" id="bitcoin-onchain-wallets"></a>
 

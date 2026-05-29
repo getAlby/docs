@@ -11,7 +11,7 @@ You can now use your Alby lightning address as your identity on Nostr. Everyone 
 Using your Alby lightning address follows the [NIP-05](https://github.com/nostr-protocol/nips) specification.&#x20;
 {% endhint %}
 
-To connect your lightning address to your Nostr profile you have to add your Nostr public key to Alby.&#x20;
+To connect your lightning address to your Nostr profile you have to add your Nostr public key to Alby. If you only want to receive zaps, see the separate guide on [adding your lightning address to Nostr](../faq/how-to-add-my-lightning-address-to-nostr.md).&#x20;
 
 ### **Step 1: Select Settings in the drop down menu**
 

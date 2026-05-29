@@ -1,6 +1,6 @@
 # App Connections via NWC
 
-Alby is your companion for bitcoin lightning payments. That's why you can connect it to many other apps via NWC (Nostr-Wallet Connect).
+Alby is your companion for bitcoin lightning payments. That's why you can connect it to many other apps via [NWC (Nostr Wallet Connect)](https://nwc.dev/).
 
 ## **Benefits of wallet-app connections:**
 
@@ -14,7 +14,7 @@ Alby is your companion for bitcoin lightning payments. That's why you can connec
 
 ### Learn how to connect Alby Hub to other apps:
 
-{% content-ref url="https://app.gitbook.com/s/WIUBf3ZZaBGu2ee6Y8lU/app-connections" %}
-[App Connections](https://app.gitbook.com/s/WIUBf3ZZaBGu2ee6Y8lU/app-connections)
+{% content-ref url="../../hub/app-connections/" %}
+[App Connections](../../hub/app-connections/)
 {% endcontent-ref %}
 

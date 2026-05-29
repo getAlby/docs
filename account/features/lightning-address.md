@@ -6,7 +6,7 @@ description: How to change and customize your lightning address
 
 A lightning address is a human-readable text that replaces the need for QR Codes to send and receive  bitcoin over the lightning network.
 
-Your lightning address is an important tool for to receive bitcoin payments. It is easy to share and remember. That's why Alby gives you one by default, when you sign up for an account.&#x20;
+Your lightning address is an important tool for to receive bitcoin payments. It is easy to share and remember. That's why Alby gives you one by default, when you sign up for an account. You can also [use your own domain as a lightning address](../faq/how-to-use-my-own-domain-as-lightning-address.md) if you want a branded address.&#x20;
 
 
 
@@ -24,7 +24,7 @@ Log into your Alby Account on getalby.com by clicking on Dashboard. Then follow 
 
 ### **Step 3: Change your lightning address and click on 'Update'**
 
-Changing your lightning address requires a paid subscription plan. You'll find instructions below.
+Changing your lightning address requires a [paid subscription plan](https://getalby.com/pricing). You'll find instructions below.
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 

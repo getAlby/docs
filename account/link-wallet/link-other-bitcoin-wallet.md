@@ -37,4 +37,4 @@ Your NWC Connection Secret looks like: "_nostr+walletconnect://cf6fb0..."_
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-**Congratulations!** You have successfully linked your node. You can now start managing your funds directly through your Alby Account.
+**Congratulations!** You have successfully linked your node. You can now start managing your funds directly through your Alby Account and [connect your wallet to apps via NWC](../connect-to-apps/app-connections-via-nwc.md).

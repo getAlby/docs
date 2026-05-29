@@ -15,7 +15,7 @@ For advanced users, we recommend setting up a redirect rather than hosting a cop
 
 ### **Prerequisites**
 
-* An active Alby Account with a lightning address (can be free or paid)
+* An active Alby Account with a [lightning address](../features/lightning-address.md) (can be free or paid)
 * Your own domain with web hosting access
 * Ability to upload files to your domain's root directory
 

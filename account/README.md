@@ -12,13 +12,13 @@ As such, Alby offers products and services that enable the use of Bitcoin—prog
 
 #### **As a consumer** 🙋‍♀&#xFE0F;**:**
 
-* Start Alby Hub, your self-custodial bitcoin lightning wallet with superpowers
-* Use the Alby Browser Extension or Alby Go mobile app
-* Get an individual lightning address, set up payment notifications, etc.
+* Start [Alby Hub](../hub/), your self-custodial bitcoin lightning wallet with superpowers
+* Use the [Alby Browser Extension](../lightning-browser-extension/) or [Alby Go mobile app](../go/)
+* Get an individual [lightning address](features/lightning-address.md), set up payment notifications, etc.
 
 #### As a creator 👩‍🎨:
 
-* Connect to podcasting 2.0 apps
+* Connect to [podcasting 2.0 apps](connect-to-apps/podcast-apps.md)
 * Receive bitcoin payments with the [WordPress Lightning publisher plugin](https://wordpress.org/plugins/bitcoin-lightning-publisher/)
 * Get your personal tipping page
 

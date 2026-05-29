@@ -16,7 +16,7 @@ description: >-
 * **💸 Lower Fees**\
   Enjoy reduced transaction fees, ideal for frequent, small transactions.
 
-### Alby Hub
+### [Alby Hub](https://getalby.com/alby-hub)
 
 <figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
@@ -24,6 +24,6 @@ description: >-
 * Ready to connect to dozens of web and mobile apps
 * Get a lightning address, use the Alby Extension and a lot more benefits from Alby
 
-**Sign up for your own Hub on** [**getalby.com**](https://getalby.com/auth/users/new)&#x20;
+**Start your own Hub on** [**getalby.com/alby-hub**](https://getalby.com/alby-hub)&#x20;
 
 To ensure a smooth start, [book](https://cal.com/getalby/alby-hub-group-onboarding) a personal onboarding session with us. ☎️

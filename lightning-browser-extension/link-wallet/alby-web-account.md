@@ -4,7 +4,7 @@ description: Connect your Alby web Account to the Alby Browser Extension
 
 # Alby web Account
 
-You have downloaded the Alby browser extension and want to spend the sats that are accessible from your Alby web Account ( [getalby.com/dashboard](https://getalby.com/dashboard) ). &#x20;
+You have downloaded the [Alby Browser Extension](https://getalby.com/alby-extension) and want to spend the sats that are accessible from your Alby web Account ( [getalby.com/dashboard](https://getalby.com/dashboard) ). &#x20;
 
 #### **Step 1: Click on the plugin icon, open the wallet menu, then click on " + Add "**
 

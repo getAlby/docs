@@ -15,7 +15,7 @@ This is the quick & easy way
 
 <img src="../.gitbook/assets/image (104).png" alt="" data-size="original">
 
-**1)** [Install](https://getalby.com/) the Alby Browser Extension in your browser and add your new Voltage node
+**1)** [Install the Alby Browser Extension](https://getalby.com/alby-extension) in your browser and add your new Voltage node
 
 **2)** Click "Connect" to "Other Wallets"&#x20;
 

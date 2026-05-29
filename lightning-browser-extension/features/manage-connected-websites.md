@@ -1,13 +1,15 @@
 ---
 description: >-
   Before using Alby on a website, Alby always asks if you want to grant the
-  website access to your account. Here’s how you can manage website permissions
+  website access to your account. Discover compatible bitcoin apps at getalby.com/discover. Here’s how you can manage website permissions
   from the website list within Alby.
 ---
 
 # 🥍 Manage connected websites
 
 ## Manage permissions on sites
+
+Use connected website permissions to stay in control while trying apps from the [Alby app directory](https://getalby.com/discover).
 
 {% embed url="https://demos.getalby.com/demo/cm0wovgn400n7hdob17ir35fa" %}
 

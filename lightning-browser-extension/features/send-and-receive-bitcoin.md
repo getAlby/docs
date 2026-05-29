@@ -1,6 +1,6 @@
 # 🔂 Send and receive bitcoin
 
-This page shows you how to send and receive bitcoin with Alby
+This page shows you how to send and receive bitcoin with the [Alby Browser Extension](https://getalby.com/alby-extension). For mobile payments, try [Alby Go](https://getalby.com/alby-go).
 
 ## Send bitcoin
 

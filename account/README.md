@@ -4,7 +4,7 @@ description: About Alby Accounts
 
 # ℹ️ Introduction
 
-> _<mark style="background-color:yellow;">**Alby is your companion for bitcoin payments in the digital world of apps and the real world of brick-and-mortar businesses.**</mark>_ &#x20;
+> _<mark style="background-color:yellow;">**Alby is your companion for bitcoin payments in the digital world of apps and the real world of brick-and-mortar businesses.**</mark>_
 
 As such, Alby offers products and services that enable the use of Bitcoin—programmable money with instant, low-cost payments.
 
@@ -12,8 +12,8 @@ As such, Alby offers products and services that enable the use of Bitcoin—prog
 
 #### **As a consumer** 🙋‍♀&#xFE0F;**:**
 
-* Start [Alby Hub](../hub/), your self-custodial bitcoin lightning wallet with superpowers
-* Use the [Alby Browser Extension](../lightning-browser-extension/) or [Alby Go mobile app](../go/)
+* Start [Alby Hub](https://getalby.com/alby-hub), your self-custodial bitcoin lightning wallet with superpowers
+* Use the [Alby Browser Extension](https://getalby.com/alby-extension) or [Alby Go mobile app](https://getalby.com/alby-go)
 * Get an individual [lightning address](features/lightning-address.md), set up payment notifications, etc.
 
 #### As a creator 👩‍🎨:
@@ -22,13 +22,13 @@ As such, Alby offers products and services that enable the use of Bitcoin—prog
 * Receive bitcoin payments with the [WordPress Lightning publisher plugin](https://wordpress.org/plugins/bitcoin-lightning-publisher/)
 * Get your personal tipping page
 
-#### **As a merchant** �&#xDED2;**:**
+#### **As a merchant** 🛍&#xFE0F;**:**
 
 * Connect to BTCPay Server to accept bitcoin payments
 * Get a lightning address with your own internet domain
 * Export your transaction history for your bookkeeping purposes
 
-#### **As a developer** 👨‍�&#xDCBB;**:**
+#### **As a developer** 👨🏻‍�&#xDCBB;**:**
 
 * Access a dedicated developer portal: [https://getalby.com/developer](https://getalby.com/developer)
 * Programmatically interact with your wallet and implement custom logic in response to events

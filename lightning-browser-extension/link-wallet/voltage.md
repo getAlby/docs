@@ -41,4 +41,4 @@ Click on "Continue". **Congrats** you successfully connected your own to the Alb
 
 **Congrats** you are almost ready to spend from your own node with the Alby Extension 🚀
 
-If you need help, send us an [email](mailto:support@getalby.com) anytime!&#x20;
+If you need help, visit [support.getalby.com](http://support.getalby.com) anytime!&#x20;

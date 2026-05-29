@@ -77,7 +77,7 @@ Alternatively, if this is not possible, you can also keep the old LNDHub availab
 
 Please contact the app to migrate your account to the profile authenticated with your Master Key. Stacker News and Geyser allow their users to unlink and relink their accounts for ease.
 
-If you need help or have questions, please message support@getalby.com
+If you need help or have questions, please visit [support.getalby.com](http://support.getalby.com).
 
 5. **Remove the old wallet.**
 

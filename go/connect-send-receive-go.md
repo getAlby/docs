@@ -14,6 +14,8 @@ description: Alby Go - the easiest to use mobile app for bitcoin lightning payme
 
 {% embed url="https://demos.getalby.com/demo/cm0y1m3zu02an11jcebtb2kcq?utm_source=link" %}
 
+Need a wallet first? [Set up Alby Hub](../hub/getting-started.md) to run a self-custodial lightning wallet, then connect it to Alby Go.
+
 ### 🔌 Connect any NWC-powered Wallet
 
 Alby Go connects to your bitcoin lightning-enabled node or wallet using an [**NWC**](https://nwc.dev/) **(Nostr Wallet Connect)** secret. You can link one or more wallets to switch between easily.
@@ -66,6 +68,8 @@ To receive sats with Alby Go:
    * Select 'Amount' to generate a **lightning Invoice** with custom amounts
    * Click 'Redeem' to scan **LNURL withdraw QR** codes&#x20;
 
+If you receive payments often, learn how to [customize your lightning address](../account/features/lightning-address.md) in your Alby Account so it is easier to share.
+
 <figure><img src=".gitbook/assets/WhatsApp Image 2026-03-23 at 15.10.50.jpeg" alt="" width="375"><figcaption></figcaption></figure>
 
 ***
@@ -87,6 +91,8 @@ No bloat. No fuss. Lightning-fast.
 * 🧾 **Transaction history**
 * 👥 **Address book**
 * 🧷 **Add, remove, rename and export wallets**
+
+Want more places to spend sats from Alby Go? Browse the [Alby app directory](https://getalby.com/discover) for bitcoin apps and services.
 
 ***
 

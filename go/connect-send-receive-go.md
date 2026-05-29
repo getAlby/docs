@@ -14,11 +14,11 @@ description: Alby Go - the easiest to use mobile app for bitcoin lightning payme
 
 {% embed url="https://demos.getalby.com/demo/cm0y1m3zu02an11jcebtb2kcq?utm_source=link" %}
 
-Need a wallet first? [Set up Alby Hub](../hub/getting-started.md) to run a self-custodial lightning wallet, then connect it to Alby Go.
+Need a wallet first? [Set up Alby Hub](https://app.gitbook.com/s/WIUBf3ZZaBGu2ee6Y8lU/) to run a self-custodial lightning wallet, then connect it to Alby Go.
 
 ### 🔌 Connect any NWC-powered Wallet
 
-Alby Go connects to your bitcoin lightning-enabled node or wallet using an [**NWC**](https://nwc.dev/) **(Nostr Wallet Connect)** secret. You can link one or more wallets to switch between easily.
+Alby Go connects to your bitcoin lightning-enabled node or wallet using an NWC connection secret. You can link one or more wallets to switch between easily.
 
 #### Steps:
 
@@ -30,8 +30,6 @@ Alby Go connects to your bitcoin lightning-enabled node or wallet using an [**NW
    (e.g. `nostr+walletconnect://...`)
 
 <figure><img src=".gitbook/assets/WhatsApp Image 2025-06-11 at 19.09.22 (3).jpeg" alt="" width="375"><figcaption><p>Connect a wallet to Alby Go</p></figcaption></figure>
-
-
 
 3. Give your connection a **custom name**
 
@@ -66,9 +64,9 @@ To receive sats with Alby Go:
    * Present the **QR code** to the sender
    * Share your **lightning address** as displayed -> click on 'Share'
    * Select 'Amount' to generate a **lightning Invoice** with custom amounts
-   * Click 'Redeem' to scan **LNURL withdraw QR** codes&#x20;
+   * Click 'Redeem' to scan **LNURL withdraw QR** codes
 
-If you receive payments often, learn how to [customize your lightning address](../account/features/lightning-address.md) in your Alby Account so it is easier to share.
+If you receive payments often, learn how to [customize your lightning address](https://app.gitbook.com/s/WKqqWqKEAO8XHGTjzhEl/features/lightning-address) in your Alby Account so it is easier to share.
 
 <figure><img src=".gitbook/assets/WhatsApp Image 2026-03-23 at 15.10.50.jpeg" alt="" width="375"><figcaption></figcaption></figure>
 

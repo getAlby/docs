@@ -6,4 +6,4 @@ description: >-
 
 # ❓ FAQ
 
-If you have any more questions, please [let us know](mailto:support@getalby.com) over e-mail.
+If you have any more questions, please [let us know](https://support.getalby.com).

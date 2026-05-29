@@ -6,6 +6,8 @@ description: >-
 
 # 🎮 Connect to apps
 
+Connect your Alby Account to bitcoin apps, podcasting tools and wallet interfaces. You can also browse more compatible apps in the [Alby app directory](https://getalby.com/discover).
+
 {% content-ref url="alby-browser-extension.md" %}
 [alby-browser-extension.md](alby-browser-extension.md)
 {% endcontent-ref %}

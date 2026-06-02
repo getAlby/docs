@@ -8,7 +8,7 @@ While the channel is open, you will be able to send and receive bitcoin with any
 
 1 . [Reasons for closing a channel](how-can-i-close-a-channel-what-happens-to-the-bitcoin-in-this-channel.md#reasons-for-closing-a-channel)\
 2\. [Close a channel](how-can-i-close-a-channel-what-happens-to-the-bitcoin-in-this-channel.md#close-a-channel)\
-3\. [So, where are my bitcoin?](how-can-i-close-a-channel-what-happens-to-the-bitcoin-in-this-channel.md#so-where-are-the-funds)
+3\. [So, where are my bitcoin?](how-can-i-close-a-channel-what-happens-to-the-bitcoin-in-this-channel.md#so-where-are-my-bitcoin)
 
 ***
 
@@ -30,7 +30,7 @@ Here are some common reasons to do so:
 
 ## How to close a channel
 
-In the **“Node”** section, click the three dots next to the channel and select **“Close Channel.”** A popup will appear with a warning and details about the peer you opened the channel with. Review the information, then click **“OK.”** &#x20;
+In the **“Node”** section, click the three dots next to the channel and select **“Close Channel.”** A popup will appear with a warning and details about the peer you opened the channel with. Review the information, then click **“OK.”**
 
 {% hint style="danger" %}
 Closing a channel is an irreversible process. It may take up to 6 blockchain confirmations, or about an hour, to be fully closed. If it was your only channel, you won't be able to send or receive bitcoin through the lightning network.
@@ -50,17 +50,15 @@ Closing a channel is an irreversible process. It may take up to 6 blockchain con
 {% endtab %}
 {% endtabs %}
 
-After clicking on **"Close Channel"** you'll see the following screens to finalize the closing.&#x20;
+After clicking on **"Close Channel"** you'll see the following screens to finalize the closing.
 
 <figure><img src="../.gitbook/assets/Screenshot 12-18-2024 15.02.09.png" alt=""><figcaption><p>"Normal close" is the default option and is recommended. Avoid force closures unless absolutely necessary.</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Screenshot 12-18-2024 15.02.25.png" alt=""><figcaption><p>The closing transaction will briefly appear after clicking on "Close Channel".</p></figcaption></figure>
 
-
-
 ***
 
-## **So, where are my bitcoin?**&#x20;
+## **So, where are my bitcoin?**
 
 **Channel closed? No worries! Your bitcoin are just taking a little break.** 💤🔒
 

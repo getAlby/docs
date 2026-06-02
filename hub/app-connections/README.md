@@ -6,7 +6,7 @@ Looking for apps to connect? Explore the [Alby app directory](https://getalby.co
 
 **Outline**
 
-1. [Your first connections: "Alby Account" important](./#your-first-and-one-of-your-most-important-connections-alby-account)
+1. [Your first connections: "Alby Account" important](./#your-first-connection-alby-account-important)
 2. [Connection window explained](./#connection-window-explained)
 3. [How to connect apps](./#how-to-connect-apps)
 
@@ -126,4 +126,4 @@ You can change permissions, budget, budget renewal and expiration time. Click on
 ***
 
 _Thank you for stopping by!_\
-&#xNAN;_&#x54;his section was created with contributions from Jean-Paul, Tomek & Moritz_
+\&#xNAN;_This section was created with contributions from Jean-Paul, Tomek & Moritz_

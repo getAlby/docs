@@ -6,16 +6,16 @@ description: >-
 
 # 🖥️ Desktop
 
-## Install Alby Hub on:&#x20;
+## Install Alby Hub on:
 
-1\.  [Windows](desktop.md#windows)\
+1\. [Windows](desktop.md#windows)\
 2\. [macOS](desktop.md#macos)\
 3\. [Linux](desktop.md#linux)\
 4\. [Instruction for all systems and download links](desktop.md#all-systems)\
-5\. [Uninstalling and deleting everything](desktop.md#id-5.-uninstalling-and-deleting-everything)
+5\. [Uninstalling and deleting everything](desktop.md#uninstalling-and-deleting-everything)
 
 {% hint style="info" %}
-Alby Hub for desktop is well-suited for self-hosting for users who have a basic understanding of software configuration and network settings, and have their computers online 24/7 in order to send or receive payments.  Therefore, consider this option if you keep the desktop computer **always online**.&#x20;
+Alby Hub for desktop is well-suited for self-hosting for users who have a basic understanding of software configuration and network settings, and have their computers online 24/7 in order to send or receive payments. Therefore, consider this option if you keep the desktop computer **always online**.
 
 Otherwise, we recommend subscribing to Alby Cloud to ensure your wallet is always online. 👍
 {% endhint %}
@@ -58,11 +58,11 @@ Click [here](https://github.com/getAlby/hub?tab=readme-ov-file#custom-ubuntu-vm)
 
 ***
 
-## All systems&#x20;
+## All systems
 
 ### 1. Select your operating system below
 
-The download of Alby Hub app files starts automatically.&#x20;
+The download of Alby Hub app files starts automatically.
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><strong>💻 Windows</strong></td><td></td><td><a href="https://getalby.com/install/hub/windows">https://getalby.com/install/hub/windows</a></td></tr><tr><td></td><td><strong>🍏 MacOS</strong></td><td></td><td><a href="https://getalby.com/install/hub/macos">https://getalby.com/install/hub/macos</a></td></tr><tr><td></td><td><strong>🐧 Linux</strong></td><td></td><td><a href="https://getalby.com/install/hub/desktop-linux">https://getalby.com/install/hub/desktop-linux</a></td></tr></tbody></table>
 
@@ -70,12 +70,12 @@ The download of Alby Hub app files starts automatically.&#x20;
 
 This may vary slightly between systems.
 
-### 3. Find the Alby Hub file in the extracted order and install it.&#x20;
+### 3. Find the Alby Hub file in the extracted order and install it.
 
 Open the file manually or add it to the system startup if you want it to run permanently each time you restart your computer.
 
 {% hint style="success" %}
-**Congrats!** 🎉 Your Alby hub is now running on your desktop. 👏 \
+**Congrats!** 🎉 Your Alby hub is now running on your desktop. 👏\
 Remember, keeping your Alby Hub online is crucial to send and receive payments at any point in time.
 {% endhint %}
 
@@ -87,6 +87,6 @@ Remember, keeping your Alby Hub online is crucial to send and receive payments a
 Warning: This may result in a loss of funds. Make sure your Hub is empty before following these instructions to completely remove it.
 {% endhint %}
 
-To completely remove Alby Hub from a Windows desktop, first close the app, then uninstall it from Settings under Apps if it appears there. After that, delete its data folder located at C:\Users\AppData\Local\albyhub.&#x20;
+To completely remove Alby Hub from a Windows desktop, first close the app, then uninstall it from Settings under Apps if it appears there. After that, delete its data folder located at C:\Users\AppData\Local\albyhub.
 
 On a Mac, close the app, drag Alby Hub from the Applications folder to the Trash, and then delete its data folder, which may be found at \~/Library/albyhub or, in some cases, at \~/Library/Containers/com.getalby.Alby-Hub/Data/Library/Application Support/albyhub.

@@ -25,20 +25,20 @@ This glossary contains authoritative definitions for all Bitcoin, lightning netw
 
 ### Address <a href="#address" id="address"></a>
 
-In Alby Hub there is onchain address and a lightning address.
+In Alby Hub there is on-chain address and a lightning address.
 
-A bitcoin _**onchain address**_ is an identifier of 26-35 alphanumeric characters (e.g. bc1...) that is used to receive bitcoin in a bitcoin onchain wallet. Your "Savings Balance" is a bitcoin onchain wallet.
+A bitcoin _**onchain address**_ is an identifier of 26-35 alphanumeric characters (e.g. bc1...) that is used to receive bitcoin in a bitcoin on-chain wallet. Your "Savings Balance" is a bitcoin onchain wallet.
 
 A _**lightning address**_ is an identifier in the form of xyz@getalby.com that is used to receive bitcoin to a bitcoin lightning wallet.
 
-Your Alby Hub is a comprehensive wallet solution, featuring both a lightning wallet and an integrated bitcoin onchain wallet.
+Your Alby Hub is a comprehensive wallet solution, featuring both a lightning wallet and an integrated bitcoin on-chain wallet.
 
 {% content-ref url="node/on-chain-balance.md" %}
 [on-chain-balance.md](node/on-chain-balance.md)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/spaces/WKqqWqKEAO8XHGTjzhEl/pages/3sI3hKSlb0QhSSbP4c0P" %}
-[Broken link](/broken/spaces/WKqqWqKEAO8XHGTjzhEl/pages/3sI3hKSlb0QhSSbP4c0P)
+{% content-ref url="https://app.gitbook.com/s/WKqqWqKEAO8XHGTjzhEl/features/lightning-address" %}
+[Lightning Address](https://app.gitbook.com/s/WKqqWqKEAO8XHGTjzhEl/features/lightning-address)
 {% endcontent-ref %}
 
 ***

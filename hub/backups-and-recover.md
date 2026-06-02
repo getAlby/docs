@@ -15,12 +15,12 @@ Because [Alby Hub](https://getalby.com/alby-hub) is self-custodial, keeping a co
 
 **Jump directly to the setup that applies to you:**
 
-1. [Alby Hub with Pro Cloud](backups-and-recover.md#alby-hub-on-alby-cloud)
+1. [Alby Hub with Alby Cloud](backups-and-recover.md#alby-hub-with-alby-cloud)
 2. [Alby Hub with Pro](backups-and-recover.md#alby-hub-with-pro)
-3. [Alby Hub self-hosted with an Alby account](backups-and-recover.md#alby-hub-self-hosted-with-an-alby-account)
+3. [Alby Hub self-hosted with an Alby account](backups-and-recover.md#alby-hub-self-hosted-diy-with-an-alby-account)
 4. [Alby Hub self-hosted without an Alby account](backups-and-recover.md#alby-hub-self-hosted-without-an-alby-account)
 
-## Alby Hub with Pro Cloud
+## Alby Hub with Alby Cloud
 
 ### On-chain Balance and Lightning Balance
 
@@ -140,4 +140,4 @@ Thanks for your understanding!
 ***
 
 _Thank you for stopping by!_\
-&#xNAN;_&#x54;his section was created with contributions from René, Roland & Jean-Paul_
+\&#xNAN;_This section was created with contributions from René, Roland & Jean-Paul_

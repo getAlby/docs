@@ -48,7 +48,7 @@ These steps help you move your self-hosted Alby Hub with an active Pro subscript
 
 #### Migration steps
 
-1. Follow the same process described in: [Alby Cloud -> Self-hosted Pro migration](how-can-i-migrate-alby-hub-to-a-different-machine.md#id-2.-self-hosted-free-greater-than-self-hosted-free-migration)
+1. Follow the same process described in: [Alby Cloud -> Self-hosted Pro migration](how-can-i-migrate-alby-hub-to-a-different-machine.md#id-4.-alby-cloud-greater-than-self-hosted-pro-migration)
 
 **Note**, at the moment it is not possible to migrate a self-hosted Alby Hub with a Pro subscription with enabled dynamic channels backup to a self-hosted Alby Hub without a subscription. If you would like this feature, please submit a feature request to our [feedback board](https://feedback.getalby.com/-alby-hub-request-a-feature).
 

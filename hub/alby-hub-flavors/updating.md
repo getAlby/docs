@@ -6,7 +6,7 @@ description: >-
 
 # 🆙 Updating
 
-The Alby team and open-source contributors are constantly researching and working on Alby Hub to ensure you have the latest features and security improvements. \
+The Alby team and open-source contributors are constantly researching and working on Alby Hub to ensure you have the latest features and security improvements.\
 \
 Let's get started! Keep your Alby Hub up to date! 💪
 
@@ -14,27 +14,27 @@ You'll find the current version of your Alby Hub in the top left corner of the a
 
 ## Overview
 
-1 .  [How to Update](updating.md#id-1.-how-to-update)\
+1 . [How to Update](updating.md#id-1.-how-to-update)\
 2 . [Choose your Alby Hub specific flavor](updating.md#id-2.-choose-your-alby-hub-specific-flavor)\
-&#x20;     2.1.  [Pro Cloud](updating.md#alby-cloud)\
-&#x20;     2.2. [Desktop](updating.md#desktop)\
-&#x20;     2.3. [Docker](updating.md#docker)\
-&#x20;     2.4. [Umbrel, Start9, etc.](updating.md#umbrel-start9-your-own-node)\
-&#x20;     2.5. [Ubuntu](updating.md#ubuntu)\
+2.1. [Pro Cloud](updating.md#alby-cloud)\
+2.2. [Desktop](updating.md#desktop)\
+2.3. [Docker](updating.md#docker)\
+2.4. [Umbrel, Start9, etc.](updating.md#umbrel-start9-your-own-node)\
+2.5. [Ubuntu](updating.md#ubuntu)\
 3 .[ Congratulations!](updating.md#id-3.-congratulations)
 
 ***
 
 ## 1. How to Update 🚀
 
-When an Alby Hub update becomes available you'll be notified directly in the Hub. The update process depends on how you run Alby Hub.&#x20;
+When an Alby Hub update becomes available you'll be notified directly in the Hub. The update process depends on how you run Alby Hub.
 
-### Before you Update&#x20;
+### Before you Update
 
 Please note the following before you update your hub:
 
 * Make sure you have backed up your Alby Hub recovery phrase consisting of 12 words (for the embedded node option only)
-* Make sure you have your Alby Hub password saved&#x20;
+* Make sure you have your Alby Hub password saved
 * Update might take a few minutes
 * Unlock is required after the update by entering your Alby Hub password
 
@@ -52,7 +52,7 @@ It is recommended to do regular updates, as Alby developers are improving it eve
 
 <summary>Updating your Hub running on Alby Cloud</summary>
 
-1. Go to getalby.com and click "Login".&#x20;
+1. Go to getalby.com and click "Login".
 2. Inside your Alby web account, go to "Wallet Configuration"
 3. Click on "Update now".
 
@@ -66,7 +66,7 @@ It is recommended to do regular updates, as Alby developers are improving it eve
 
 <summary>Other Cloud Options</summary>
 
-The currently recommended deployment options on our [GitHub repository ](https://github.com/getAlby/hub/tree/master)are Digital Ocean, Render, and Fly. All three load the latest version from the GitHub repository. If your Alby Hub is outdated, shut down and reboot your instance. \
+The currently recommended deployment options on our [GitHub repository ](https://github.com/getAlby/hub/tree/master)are Digital Ocean, Render, and Fly. All three load the latest version from the GitHub repository. If your Alby Hub is outdated, shut down and reboot your instance.\
 \
 Those instances are using docker images, so if needed you can also updated them manually just like you would for a [docker image](updating.md#docker).
 
@@ -93,7 +93,7 @@ Updating Alby Hub on macOS
 1. Download latest release from [GitHub releases](https://github.com/getAlby/hub/releases)
 2. Stop current Hub instance
 3. Install new version
-4. Restart Hub&#x20;
+4. Restart Hub
 {% endtab %}
 {% endtabs %}
 
@@ -157,16 +157,9 @@ These commands will run the docker image with the previous data, with no data lo
 
 <details>
 
-<summary>Updating on Umbrel,  Start9, etc.</summary>
+<summary>Updating on Umbrel, Start9, etc.</summary>
 
-Go to your Node OS app store, check the current version of Alby Hub. If it is outdated, then proceed to make sure you have the latest version available for your Node OS. \
-**For Start9**: [Visit their guide](https://docs.start9.com/0.3.4.x/user-manual/overview/managing-services#id4)\
-**For Umbrel**: Click "Check for updates".\
-<img src="../.gitbook/assets/Heading (11).png" alt="" data-size="original">
-
-<img src="../.gitbook/assets/Heading (10).png" alt="" data-size="original">
-
-
+Go to your Node OS app store, check the current version of Alby Hub. If it is outdated, then proceed to make sure you have the latest version available for your Node OS.<br>
 
 </details>
 
@@ -213,10 +206,9 @@ go run http/alby_http_service.go
 
 ## 3. Congratulations! 🎉
 
-Your Alby Hub is Updated and Ready to Go!&#x20;
+Your Alby Hub is Updated and Ready to Go!
 
-You have successfully updated your Alby Hub! However, your Alby Hub will be locked and inaccessible for connected apps. Payments will not work until you unlock your Hub. You need to unlock it after the update: &#x20;
+You have successfully updated your Alby Hub! However, your Alby Hub will be locked and inaccessible for connected apps. Payments will not work until you unlock your Hub. You need to unlock it after the update:
 
 1. **Visit Your Hub URL:** Go to the URL of your Alby Hub.
 2. **Enter Your Unlock Password:** Log in with your unlock password to launch Alby Hub and re-enable your wallet.
-

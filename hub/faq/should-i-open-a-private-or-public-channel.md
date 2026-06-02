@@ -8,8 +8,8 @@ To send and receive bitcoin payments, you need to open channels to other peers. 
 
 1 . [Private channels](should-i-open-a-private-or-public-channel.md#id-1.-private-channels)\
 2\. [Public channels](should-i-open-a-private-or-public-channel.md#id-2.-public-channels)\
-3\. [Should I open private or public channels?](should-i-open-a-private-or-public-channel.md#id-3.-what-channel-should-i-open-then)\
-4\. [How to choose private or public channels in Alby Hub](should-i-open-a-private-or-public-channel.md#id-4.-choosing-private-or-public)
+3\. [Should I open private or public channels?](should-i-open-a-private-or-public-channel.md#id-3.-should-i-open-private-or-public-channels)\
+4\. [How to choose private or public channels in Alby Hub](should-i-open-a-private-or-public-channel.md#id-4.-how-to-choose-private-or-public-channels-in-alby-hub)
 
 ***
 
@@ -33,7 +33,7 @@ Public channels on the Bitcoin Lightning Network are announced to the network an
 
 Only two aspect should be taken into account for this decision
 
-**1. If you are a podcaster or need Keysend payments open public channels.**&#x20;
+**1. If you are a podcaster or need Keysend payments open public channels.**
 
 **2. Only open one type of channel:** either make all your channels public or all your channels private.
 
@@ -61,5 +61,5 @@ After clicking "Advanced Options," you will see an unchecked box named "Public C
 
 Now you understand the difference between Public and Private channels, their uses, and why private channels are recommended as the default option.
 
-You're now equipped to make an informed decision that best suits your needs. Keep up the great work!&#x20;
+You're now equipped to make an informed decision that best suits your needs. Keep up the great work!
 {% endhint %}

@@ -4,7 +4,7 @@ description: Connect your Alby Hub directly to the browser extension
 
 # Alby Hub via NWC link
 
-You can link your Alby Hub directly to the Alby Browser Extension using an NWC connection string.
+You can link [Alby Hub](https://getalby.com/alby-hub) directly to the [Alby Browser Extension](https://getalby.com/alby-extension) using an NWC connection string.
 
 #### Step 1: Add a connection in Alby Hub
 

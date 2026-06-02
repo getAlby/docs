@@ -1,12 +1,12 @@
 ---
 description: >-
-  Visit https://getalby.com/discover for the most recent overview of bitcoin
+  Visit getalby.com/discover for the most recent overview of bitcoin
   apps
 ---
 
 # 🎮 Discover apps
 
-Alby provides a dedicated selection of bitcoin web apps within the browser extension
+Alby provides a dedicated selection of bitcoin web apps within the browser extension. You can also browse the latest list in the [Alby app directory](https://getalby.com/discover).
 
 #### Step 1: Open the Alby Browser Extension and click on the menu button
 

@@ -4,7 +4,7 @@ description: Create and edit an allowance on a platform
 
 # 💵 Create and change budgets
 
-When you want to pay, Alby asks to confirm the payment
+When you want to pay in apps from the [Alby app directory](https://getalby.com/discover), Alby asks to confirm the payment
 
 <figure><img src="../.gitbook/assets/firefox_2iNfCWVhZk.png" alt=""><figcaption></figcaption></figure>
 

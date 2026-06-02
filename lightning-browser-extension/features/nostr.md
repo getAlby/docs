@@ -9,7 +9,7 @@ description: >-
 
 ## Getting started
 
-With Alby you securely manage your Nostr account keys and safely use Nostr web clients. Your private keys only live in Alby and will never be shared. &#x20;
+With the [Alby Browser Extension](https://getalby.com/alby-extension) you securely manage your Nostr account keys and safely use Nostr web clients. Your private keys only live in Alby and will never be shared. &#x20;
 
 Every account in Alby can have an individual Nostr key. This allows you to manage multiple Nostr keys.
 
@@ -57,11 +57,9 @@ Make sure to always have a backup of your key!
 
 ## 🪄 Getting a Nostr NIP05 identifier
 
-With an getAlby.com account and lightning address (e.g. you@getalby.com) you can also configure your NIP05 Nostr identifier. NIP-05 is a verification method for your Nostr account across all clients and friends can then find you with that address instead of the public key. Here is how:
+With a getAlby.com account and lightning address (e.g. you@getalby.com) you can also configure your NIP05 Nostr identifier. NIP-05 is a verification method for your Nostr account across all clients and friends can then find you with that address instead of the public key.
 
-{% content-ref url="https://app.gitbook.com/s/WKqqWqKEAO8XHGTjzhEl/features/nostr-identifier" %}
-[Nostr Identifier](https://app.gitbook.com/s/WKqqWqKEAO8XHGTjzhEl/features/nostr-identifier)
-{% endcontent-ref %}
+You can manage your account and lightning address from [getalby.com](https://getalby.com).
 
 ## 📖 Further resources
 

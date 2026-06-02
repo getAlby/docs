@@ -28,5 +28,5 @@ If you use the Alby account, you need to enable this by clicking on "Add a new p
 
 ![](<../.gitbook/assets/image (137).png>)
 
-**Success!** Have a look [here](https://guides.getalby.com/overall-guide/alby-browser-extension/where-to-use-alby/access-lightning-web-apps) to discover new apps to use Alby.
+**Success!** Have a look at the [Alby app directory](https://getalby.com/discover) to discover new apps to use Alby.
 

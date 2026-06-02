@@ -8,7 +8,7 @@ description: Rename and delete wallets
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-In the extension menu, you'll see your wallet. The Alby Browser extension lets you connect multiple wallets. By default, you'll likely connect your Alby web account, but you can also link other wallets via NWC (Nostr Wallet Connect). The wallet name will match the connector type by default (e.g., NWC Connection).
+In the extension menu, you'll see your wallet. The [Alby Browser Extension](https://getalby.com/alby-extension) lets you connect multiple wallets. By default, you'll likely connect your Alby web account, but you can also link [Alby Hub](https://getalby.com/alby-hub) or other wallets via NWC (Nostr Wallet Connect). The wallet name will match the connector type by default (e.g., NWC Connection).
 
 <figure><img src="../.gitbook/assets/Screenshot 10-24-2024 17.29.45.png" alt="" width="192"><figcaption><p>We have three wallets here.</p></figcaption></figure>
 

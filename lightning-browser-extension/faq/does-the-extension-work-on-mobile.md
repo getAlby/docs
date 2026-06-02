@@ -10,9 +10,5 @@ Yes, you can install the Alby Browser Extension on the Firefox Browser for Andro
 
 #### Alby Go is here!
 
-Alby Go is the easiest to use mobile app for bitcoin lightning payments available for Android and iOS.
-
-{% content-ref url="https://app.gitbook.com/o/uiUeRqI074apbV0PWsyf/s/xKPWjNAI2VDjXMnx1KRF/" %}
-[Alby Go](https://app.gitbook.com/o/uiUeRqI074apbV0PWsyf/s/xKPWjNAI2VDjXMnx1KRF/)
-{% endcontent-ref %}
+[Alby Go](https://getalby.com/alby-go) is the easiest to use mobile app for bitcoin lightning payments available for Android and iOS.
 

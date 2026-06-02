@@ -1,9 +1,9 @@
 # How can I migrate Alby Hub to a different machine?
 
-1. [Self-hosted (Free) -> Self-hosted (Free)](how-can-i-migrate-alby-hub-to-a-different-machine.md#id-2.-diy-free-greater-than-diy-free-migration)
-2. [Self-hosted (Pro) -> Self-hosted (Pro)](how-can-i-migrate-alby-hub-to-a-different-machine.md#id-5.-self-hosted-pro-greater-than-self-hosted-pro)
-3. [Self-hosted (Pro) -> Alby Cloud](how-can-i-migrate-alby-hub-to-a-different-machine.md#id-4.-diy-pro-greater-than-cloud-migration)
-4. [Alby Cloud -> Self-hosted (Pro)](how-can-i-migrate-alby-hub-to-a-different-machine.md#id-3.-cloud-greater-than-diy-pro-migration)
+1. [Self-hosted (Free) -> Self-hosted (Free)](how-can-i-migrate-alby-hub-to-a-different-machine.md#id-1.-self-hosted-free-greater-than-self-hosted-free-migration)
+2. [Self-hosted (Pro) -> Self-hosted (Pro)](how-can-i-migrate-alby-hub-to-a-different-machine.md#id-2.-self-hosted-pro-greater-than-self-hosted-pro)
+3. [Self-hosted (Pro) -> Alby Cloud](how-can-i-migrate-alby-hub-to-a-different-machine.md#id-3.-self-hosted-pro-greater-than-alby-cloud-migration)
+4. [Alby Cloud -> Self-hosted (Pro)](how-can-i-migrate-alby-hub-to-a-different-machine.md#id-4.-alby-cloud-greater-than-self-hosted-pro-migration)
 
 ### Important Notice: Please Read Before Continuing
 
@@ -20,7 +20,7 @@ Alby Hub is encrypted with the password you chose during setup. Only you can dec
 
 {% hint style="danger" %}
 * Make sure to have your **12-word recovery phrase** and **unlock password** securely backed up.
-* During and after the migration, **do not restart your original Alby Hub instance**. Running both instances may cause issues such as force-closing lightning channels.&#x20;
+* During and after the migration, **do not restart your original Alby Hub instance**. Running both instances may cause issues such as force-closing lightning channels.
 {% endhint %}
 
 ***
@@ -46,7 +46,7 @@ These steps help you move your self-hosted Alby Hub with an active Pro subscript
 * A self-hosted Alby Hub with an active **Pro subscription**
 * **Dynamic Channels Backup** enabled: Alby Hub → Settings → Backup
 
-#### Migration steps&#x20;
+#### Migration steps
 
 1. Follow the same process described in: [Alby Cloud -> Self-hosted Pro migration](how-can-i-migrate-alby-hub-to-a-different-machine.md#id-2.-self-hosted-free-greater-than-self-hosted-free-migration)
 
@@ -79,7 +79,7 @@ These steps help you move your self-hosted Pro Hub to Alby Cloud, while keeping 
 4. Click **"Import Existing Recovery Phrase"**
 5. Choose an **unlock password** (can be the same as your old one, or a new one) and then **enter your 12-word recovery phrase**.
 
-That's it. The migration is done. Your new Alby Cloud Hub is now available at: **my.albyhub.com**.&#x20;
+That's it. The migration is done. Your new Alby Cloud Hub is now available at: **my.albyhub.com**.
 
 ***
 
@@ -117,7 +117,5 @@ These steps help you move your Alby Hub from Alby Cloud to a self-hosted device 
 
 9. Click **"Import Existing Recovery Phrase"**
 10. Choose an **unlock password** (can be the same as your old one, or a new one) and then **enter your 12-word recovery phrase**.
-
-
 
 **That's it. The migration is done.** 🎉

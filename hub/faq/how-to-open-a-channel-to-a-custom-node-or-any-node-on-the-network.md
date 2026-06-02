@@ -9,7 +9,7 @@ hidden: true
 
 1. [What is a Lightning channel and a custom node?](how-to-open-a-channel-to-a-custom-node-or-any-node-on-the-network.md#what-is-a-lightning-channel)
 2. [Opening a custom channel](how-to-open-a-channel-to-a-custom-node-or-any-node-on-the-network.md#opening-a-custom-channel)
-3. [Waiting for the channel to open](how-to-open-a-channel-to-a-custom-node-or-any-node-on-the-network.md#waiting-for-the-channel-to-open)
+3. [Waiting for the channel to open](how-to-open-a-channel-to-a-custom-node-or-any-node-on-the-network.md#id-5.-waiting-for-the-channel-to-open)
 
 ***
 
@@ -65,7 +65,7 @@ Enter the **peer's pubkey** in the **"Peer" box**. Then, a new box labeled "**Ho
 
 #### Finally, click on "Open Channel"
 
-<figure><img src="../.gitbook/assets/Heading (13).png" alt=""><figcaption><p>When you paste your peer id the Peer box will split in two boxes, Peer and Host:Port. <br>Make sureyou enter the correct IP and port of your peer in Host:Port</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Heading (13).png" alt=""><figcaption><p>When you paste your peer id the Peer box will split in two boxes, Peer and Host:Port.<br>Make sureyou enter the correct IP and port of your peer in Host:Port</p></figcaption></figure>
 
 <details>
 
@@ -81,10 +81,10 @@ You can visit [amboss.space](https://amboss.space/) to find a node run by a pers
 
 ### 5. Waiting for the channel to open ⏳
 
-The channel will take 3 block confirmations (\~30 min.) until it is open and usable. During this process, the channel may appear as offline in your "Node" section. It will become online once it is fully open. You will be notified by email as soon as your channel is open.&#x20;
+The channel will take 3 block confirmations (\~30 min.) until it is open and usable. During this process, the channel may appear as offline in your "Node" section. It will become online once it is fully open. You will be notified by email as soon as your channel is open.
 
 <figure><img src="../.gitbook/assets/Heading (14).png" alt=""><figcaption><p>On the left, the channel opening screen. On the right, the "Node" section of Alby Hub.</p></figcaption></figure>
 
 {% hint style="success" %}
-**Congratulations!** You've mastered the art of opening custom channels on the Lightning Network! With Alby Hub', you can now connect with any node, providing you with the freedom to establish connections across the network.&#x20;
+**Congratulations!** You've mastered the art of opening custom channels on the Lightning Network! With Alby Hub', you can now connect with any node, providing you with the freedom to establish connections across the network.
 {% endhint %}

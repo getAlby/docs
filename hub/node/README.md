@@ -2,7 +2,7 @@
 
 ### Alby Hub - your own lightning node
 
-Alby Hub is an easy to use self-custodial wallet with an integrated lightning node.  Creating a lightning channel to the network not only enables you to transact with others but also connects you to a much larger community. 🌐 By operating a node and opening up a channel; you become an integral part of the expanding network of lightning nodes. This is your entry into a vibrant community where every member plays a crucial role. Welcome aboard! ⚡
+Alby Hub is an easy to use self-custodial wallet with an integrated lightning node. Creating a lightning channel to the network not only enables you to transact with others but also connects you to a much larger community. 🌐 By operating a node and opening up a channel; you become an integral part of the expanding network of lightning nodes. This is your entry into a vibrant community where every member plays a crucial role. Welcome aboard! ⚡
 
 ### What is "Receiving Capacity" and "Lightning Balance" in lightning terminology?
 
@@ -22,12 +22,4 @@ Liquidity is a property of a channel. It can only be obtained by other lightning
 
 Opening new channels can increase your lightning balance and receiving capacity. This enables you to send funds across the lighting network. Follow-on to open a new channel.
 
-While it might sound technical, managing liquidity is just about making sure your node can handle your transaction needs. Think of it as ensuring there's enough fuel in your car for a long trip and adjusting as needed. 🚗<br>
-
-
-
-***
-
-_Alby Hub was created with a lot of effort, love, and the vision of a better world with Bitcoin. We’re grateful for your consideration in getting a_ [_membership_ ](../alby-hub-flavors/alby-cloud.md)_and supporting our work._
-
-_Best regards, Your Alby Team 💛🐝_
+While it might sound technical, managing liquidity is just about making sure your node can handle your transaction needs. Think of it as ensuring there's enough fuel in your car for a long trip and adjusting as needed. 🚗

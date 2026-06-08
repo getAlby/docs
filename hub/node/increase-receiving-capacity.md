@@ -8,10 +8,17 @@ description: Learn how to increase the receiving capacity of your Alby Hub
 This is an essential task as it ensures that you can always receive a payment. But no worries there are several simple options depending on your preferences.
 {% endhint %}
 
+* Just-In-Time Channels - the automated way
 * [Buy a channel with receiving capacity included](increase-receiving-capacity.md#buy-a-channel-with-receiving-capacity-included)
 * [Swap-out to your Alby Hub on-chain wallet](increase-receiving-capacity.md#swap-out-to-your-alby-hub-on-chain-wallet)
 * [Create receiving capacity by spending](increase-receiving-capacity.md#create-receiving-capacity-by-spending)
 * [Send to another lightning wallet](increase-receiving-capacity.md#send-to-another-lightning-wallet)
+
+## Just-In-Time Channels - the automated way
+
+{% content-ref url="../faq/what-are-just-in-time-channels.md" %}
+[what-are-just-in-time-channels.md](../faq/what-are-just-in-time-channels.md)
+{% endcontent-ref %}
 
 ## Buy a channel with receiving capacity included
 

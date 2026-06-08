@@ -1,6 +1,6 @@
 # What are Just-In-Time channels?
 
-Just-In-Time (JIT) Lightning channels are on-demand payment channels opened by a [Lightning Service Provider](../bitcoin-wallet-glossary.md#lightning-service-provider) (LSP). They allow you to receive bitcoin over the lightning network instantly, even if you do not have any existing receiving capacity.
+Just-In-Time (JIT) lightning channels are on-demand payment channels opened by a [Lightning Service Provider](../bitcoin-wallet-glossary.md#lightning-service-provider) (LSP). They allow you to receive bitcoin over the lightning network instantly, even if you do not have any existing receiving capacity.
 
 The LSP connects your Alby Hub to the Lightning Network and provides the liquidity needed to receive payments. For this service, the LSP charges a small fee, which is displayed on the **Receive** screen in Alby Hub whenever a JIT channel is required.
 

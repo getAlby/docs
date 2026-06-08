@@ -61,4 +61,5 @@
   * [How to earn routing fees?](faq/how-to-earn-routing-fees.md)
   * [How to restart Alby Hub after my subscription was cancelled?](faq/how-to-restart-alby-hub-after-my-subscription-was-cancelled.md)
   * [Why is my subscription payment not successful?](faq/why-is-my-subscription-payment-not-successful.md)
+  * [What are Just In Time channels?](faq/what-are-just-in-time-channels.md)
 * [📚 Bitcoin Wallet Glossary](bitcoin-wallet-glossary.md)

@@ -8,5 +8,7 @@ This typically happens when an incoming payment exceeds your current receiving c
 
 Learn more about the concept of the receiving capacity and other ways on how to increase it here.&#x20;
 
-[#what-is-receiving-capacity-and-lightning-balance-in-lightning-terminology](../node/#what-is-receiving-capacity-and-lightning-balance-in-lightning-terminology "mention")
+{% content-ref url="../node/increase-receiving-capacity.md" %}
+[increase-receiving-capacity.md](../node/increase-receiving-capacity.md)
+{% endcontent-ref %}
 

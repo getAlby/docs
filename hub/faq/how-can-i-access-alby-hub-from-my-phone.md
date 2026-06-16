@@ -11,7 +11,7 @@ Alby Hub is a progressive web app. Like other mobile apps you can add it to your
 ## 🤖 How to Install Alby Hub on Android
 
 1. Open Chrome (or another supported browser)
-2. **Navigate to my.albyhub.com** or the URL of your Hub&#x20;
+2. **Navigate to the URL of your Hub**&#x20;
 3. Wait for the Install Prompt. If it appears, tap **“Add”** or **“Install”**.
 4. Use the Browser Menu (If No Prompt)
    1. Tap the **three-dot menu** (⋮) in the top-right corner of Chrome.
@@ -22,7 +22,7 @@ Alby Hub is a progressive web app. Like other mobile apps you can add it to your
 ## 📱How to Install Alby Hub on iOS
 
 1. **Open the Safari browser** on your phone
-2. **Navigate to my.albyhub.com** or the URL of your Hub&#x20;
+2. **Navigate to the URL of your Hub**&#x20;
 3. At the bottom of the Safari window, tap the **Share** button (a square with an arrow pointing up). &#x20;
 4. In the share sheet that appears, scroll down and tap **Add to Home Screen**.
 5. Rename the app icon if you like. Then tap **Add** in the top-right corner.

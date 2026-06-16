@@ -16,7 +16,7 @@ You'll find the current version of your Alby Hub in the top left corner of the a
 
 1 . [How to Update](updating.md#id-1.-how-to-update)\
 2 . [Choose your Alby Hub specific flavor](updating.md#id-2.-choose-your-alby-hub-specific-flavor)\
-2.1. [Pro Cloud](updating.md#alby-cloud)\
+2.1. [Cloud Hosting](updating.md#cloud-hosting)\
 2.2. [Desktop](updating.md#desktop)\
 2.3. [Docker](updating.md#docker)\
 2.4. [Umbrel, Start9, etc.](updating.md#umbrel-start9-your-own-node)\
@@ -46,25 +46,11 @@ Find the perfect version of Alby Hub that you are running that fits your specifi
 
 It is recommended to do regular updates, as Alby developers are improving it every week.
 
-### Alby Cloud
+### Cloud Hosting
 
 <details>
 
-<summary>Updating your Hub running on Alby Cloud</summary>
-
-1. Go to getalby.com and click "Login".
-2. Inside your Alby web account, go to "Wallet Configuration"
-3. Click on "Update now".
-
-<img src="../.gitbook/assets/Aspect ratio 31 (8).png" alt="" data-size="original">
-
-</details>
-
-{% embed url="https://demos.getalby.com/demo/clywujo361gpsz9kdn5nu50bm" %}
-
-<details>
-
-<summary>Other Cloud Options</summary>
+<summary>Updating your Hub running with a cloud provider</summary>
 
 The currently recommended deployment options on our [GitHub repository ](https://github.com/getAlby/hub/tree/master)are Digital Ocean, Render, and Fly. All three load the latest version from the GitHub repository. If your Alby Hub is outdated, shut down and reboot your instance.\
 \

@@ -21,9 +21,9 @@ On January 4, 2025 - one day after the [Proof of Keys day](https://en.bitcoin.it
 
 ### What happens to my shared Alby Wallet?
 
-If you created an Alby account before March 24, 2024, you were warned during the whole 2024 to remove your sats before **January 3, 2025**. [Spin up your own Alby Hub](https://getalby.com/subscription/new) to withdraw any remaining balance from the shared wallet. We’ll provide you with guidance and reminders throughout this transition to ensure a smooth process.
+If you created an Alby account before March 24, 2024, you were warned during the whole 2024 to remove your sats before **January 3, 2025**. [Spin up your own Alby Hub](https://guides.getalby.com/user-guide/alby-hub/alby-hub-flavors) to withdraw any remaining balance from the shared wallet. We’ll provide you with guidance and reminders throughout this transition to ensure a smooth process.
 
-After **January 4, 2025, the remaining balance was converted into Fee Credits**. Those credits were used to cover fees of one month Alby Cloud subscription and one payment channel making it easy to start your own self-custodial Hub. Learn more about Fee Credits [here](https://guides.getalby.com/user-guide/alby-account-and-browser-extension/alby-account/faqs-alby-account/what-are-fee-credits-in-my-alby-account). The fee credits lasted during the first 3 quarters of 2025 and are no longer available.
+After **January 4, 2025, the remaining balance was converted into Fee Credits**. Those credits were used to cover fees of one month of a hosted Alby Hub subscription and one payment channel making it easy to start your own self-custodial Hub. Learn more about Fee Credits [here](https://guides.getalby.com/user-guide/alby-account-and-browser-extension/alby-account/faqs-alby-account/what-are-fee-credits-in-my-alby-account). The fee credits lasted during the first 3 quarters of 2025 and are no longer available.
 
 This approach served as a bridge easing the transition from legacy wallets while empowering you to maintain an active presence in the lightning network.
 
@@ -41,7 +41,7 @@ Why should I proof my keys and use a self-custodial wallet like Alby Hub?
 
 We're excited to take this important step with you and ensure you’re fully supported along the way: Join our [Alby Hub onboarding calls](https://cal.com/getalby/alby-hub-onboarding) where we make sure you are off to a good start. Together, we are building a future where payments are seamless, secure, and permissionless.
 
-**Be part of this journey -** [**set up your Alby Hub today**](https://getalby.com/subscription/new) **and experience the bitcoin revolution! 🚀**
+**Be part of this journey -** [**set up your Alby Hub today**](https://guides.getalby.com/user-guide/alby-hub/alby-hub-flavors) **and experience the bitcoin revolution! 🚀**
 
 
 
@@ -134,7 +134,7 @@ Yes, Alby remains committed to making bitcoin lightning payments accessible to e
 
 You have time until January 3, 2025 to freely move your sats where you want.&#x20;
 
-The easiest option is to transfer them to your own Alby Hub starting on [this page](https://getalby.com/subscription/new). We have made it particularly easy for you and if you have any questions along the way, just use the internal chat tool to talk to us. Thank you for considering it! 🙏
+The easiest option is to transfer them to your own Alby Hub starting on [this page](https://guides.getalby.com/user-guide/alby-hub/alby-hub-flavors). We have made it particularly easy for you and if you have any questions along the way, just use the internal chat tool to talk to us. Thank you for considering it! 🙏
 
 You can also use another wallet not made by Alby (compatible with NWC) connected to your Alby web Account or your browser extension, and move your funds there. You can keep your Alby lightning address and all other benefits of your Alby account.
 
@@ -183,7 +183,7 @@ Alby Hub replaces Alby’s integrated lightning wallet. Alby Hub is an improveme
 
 <summary>How do I set up Alby Hub?</summary>
 
-We want to make it as easy as possible for you. [Start on this page](https://getalby.com/subscription/new) and follow the instructions. You’ll be surprised how easy it is.&#x20;
+We want to make it as easy as possible for you. [Start on this page](https://guides.getalby.com/user-guide/alby-hub/alby-hub-flavors) and follow the instructions. You’ll be surprised how easy it is.&#x20;
 
 </details>
 
@@ -191,7 +191,7 @@ We want to make it as easy as possible for you. [Start on this page](https://get
 
 <summary>Can I use Alby Hub for free?</summary>
 
-Installing Alby Hub on your own server, desktop, Start9, Umbrel, Nodana.io or Casa OS is free. If you prefer more convenience you can choose Alby Cloud where you pay for hosting your Hub with a 30-day money back guarantee. The latest pricing plans and its features are available [here](https://getalby.com/pricing).&#x20;
+Installing Alby Hub on your own server, desktop, Start9, Umbrel, Nodana.io or Casa OS is free. If you'd like to support Alby and unlock extra perks, check out [Alby Pro](https://getalby.com/subscription/pro). The latest pricing plans and their features are available [here](https://getalby.com/pricing).&#x20;
 
 </details>
 

@@ -19,7 +19,7 @@ Who uses BTCPay Server today:&#x20;
 
 ### Step 1: Open Alby Hub
 
-Go to my.albyhub.com or open Alby Hub on your device if you are self-hosting it.
+Open Alby Hub on your device.
 
 ### Step 2: Go to 'Connections', locate and click on BTC Pay Server
 

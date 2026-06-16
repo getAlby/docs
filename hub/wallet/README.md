@@ -33,6 +33,6 @@ description: >-
 
 ***
 
-_Alby Hub was created with a lot of effort, love, and the vision of a better world with Bitcoin. We’re grateful for your consideration in getting a_ [_membership_ ](../alby-hub-flavors/alby-cloud.md)_and supporting our work._
+_Alby Hub was created with a lot of effort, love, and the vision of a better world with Bitcoin. We’re grateful for your consideration in getting_ [_Alby Pro_](https://getalby.com/subscription/pro) _and supporting our work._
 
 _Best regards, Your Alby Team 💛🐝_

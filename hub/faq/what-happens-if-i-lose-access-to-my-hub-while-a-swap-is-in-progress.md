@@ -26,7 +26,7 @@ If the swap does still not succeed 24 hours after you initiated the swap, you ca
 
 ### Last-Resort Recovery
 
-In case you lose access to your Hub (e.g. you self-host and your hard-drive dies - [Alby Cloud](../alby-hub-flavors/alby-cloud.md) doesn't have this problem :wink:) or if the **Refund Swap** button does not work, you can still recover funds from failed swaps as long as you have [backed up your recovery phrase](https://guides.getalby.com/user-guide/alby-hub/backups-and-recover).
+In case you lose access to your Hub (e.g. you self-host and your hard-drive dies) or if the **Refund Swap** button does not work, you can still recover funds from failed swaps as long as you have [backed up your recovery phrase](https://guides.getalby.com/user-guide/alby-hub/backups-and-recover).
 
 #### Step 1: Derive Your Boltz Mnemonic From Your Recovery Phrase
 

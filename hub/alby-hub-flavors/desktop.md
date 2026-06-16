@@ -17,7 +17,7 @@ description: >-
 {% hint style="info" %}
 Alby Hub for desktop is well-suited for self-hosting for users who have a basic understanding of software configuration and network settings, and have their computers online 24/7 in order to send or receive payments. Therefore, consider this option if you keep the desktop computer **always online**.
 
-Otherwise, we recommend subscribing to Alby Cloud to ensure your wallet is always online. 👍
+Otherwise, we recommend running Alby Hub on an always-online device — such as a server, a node device like Umbrel or Start9, or a cloud provider — to ensure your wallet is always online. 👍
 {% endhint %}
 
 ***

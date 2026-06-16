@@ -8,10 +8,6 @@ Alby Hub is 100% [open source](https://github.com/getAlby/hub). You can [run Alb
 
 Here are your options to run your Alby Hub
 
-{% content-ref url="alby-cloud.md" %}
-[alby-cloud.md](alby-cloud.md)
-{% endcontent-ref %}
-
 {% content-ref url="other-cloud-options.md" %}
 [other-cloud-options.md](other-cloud-options.md)
 {% endcontent-ref %}
@@ -41,5 +37,5 @@ Open source benefits everyone by promoting collaboration and accelerating techno
 
 You’re welcome to review and contribute to our code on GitHub: [https://github.com/getAlby/](https://github.com/getAlby/).
 
-Alby Hub was created with a lot of effort, care, and the vision of a better world powered by Bitcoin. We’d greatly appreciate your support through a [_membership_](alby-cloud.md) to help us continue our work. You can also compare [Alby pricing and plans](https://getalby.com/pricing).
+Alby Hub was created with a lot of effort, care, and the vision of a better world powered by Bitcoin. We’d greatly appreciate your support through [_Alby Pro_](https://getalby.com/subscription/pro) to help us continue our work. You can also compare [Alby pricing and plans](https://getalby.com/pricing).
 {% endhint %}

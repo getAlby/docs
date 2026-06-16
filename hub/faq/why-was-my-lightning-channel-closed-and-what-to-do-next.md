@@ -26,7 +26,7 @@ Minimize these three risk factors:\
 2️⃣ **Stay Online:** Avoid frequent reboots and ensure a stable internet connection to prevent forced closures.
 
 {% hint style="info" %}
-Choose [**Alby Hub on Alby Cloud**](https://getalby.com/subscription/new) to reduces closure risk. It runs **24/7 on highly reliable data centers**.
+Running your Hub on an **always-online device** — a server, a node device like Umbrel or Start9, or a cloud provider — reduces closure risk by keeping your node reachable 24/7.
 {% endhint %}
 
 ## Forced closures vs. cooperative closures

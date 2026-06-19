@@ -2,9 +2,9 @@
 
 Just-In-Time (JIT) lightning channels are on-demand payment channels opened by a [Lightning Service Provider](../bitcoin-wallet-glossary.md#lightning-service-provider) (LSP). They allow you to receive bitcoin over the lightning network instantly, even if you do not have any existing receiving capacity.
 
-The LSP connects your Alby Hub to the Lightning Network and provides the liquidity needed to receive payments. For this service, the LSP charges a small fee, which is displayed on the **Receive** screen in Alby Hub whenever a JIT channel is required.
+The LSP connects your Alby Hub to the Lightning Network and provides the liquidity needed to receive payments. For this service, the LSP charges a small fee, which is displayed on the **Receive** screen in Alby Hub whenever a JIT channel is required. The fee is paid by the sender and deducted from the incoming payment.
 
-This typically happens when an incoming payment exceeds your current receiving capacity. In that case, the LSP automatically opens a channel on demand, allowing the payment to be received successfully.
+This typically happens when an incoming payment exceeds your current receiving capacity. In that case, the LSP automatically opens a channel on demand, allowing the payment to be received successfully.&#x20;
 
 Just-In-Time channels are enabled by default for Alby Hubs with the embedded lightning node. Currently this feature is not available for externally connected nodes and payment backends. You can always disable Just-In-Time channels in the settings of your Hub.
 

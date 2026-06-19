@@ -6,6 +6,8 @@ The LSP connects your Alby Hub to the Lightning Network and provides the liquidi
 
 This typically happens when an incoming payment exceeds your current receiving capacity. In that case, the LSP automatically opens a channel on demand, allowing the payment to be received successfully.
 
+Just-In-Time channels are enabled by default for Alby Hubs with the embedded lightning node. Currently this feature is not available for externally connected nodes and payment backends. You can always disable Just-In-Time channels in the settings of your Hub.
+
 Learn more about receiving capacity and the different ways you can increase it here.
 
 {% content-ref url="../node/increase-receiving-capacity.md" %}

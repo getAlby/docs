@@ -38,3 +38,15 @@ That's it — you're running a self-custodial Lightning wallet on your own hardw
 {% hint style="info" %}
 **Tip:** For long-term reliability, boot from a **USB SSD** rather than a microSD card, link your [Alby Account](../faq/why-do-i-need-to-link-my-alby-account.md) so your channel backups are stored encrypted, and use a quality power supply.
 {% endhint %}
+
+## Keeping it updated
+
+No SSH needed. The image applies **operating-system security updates
+automatically**, and checks for new **Alby Hub** versions weekly.
+
+To get Alby Hub updates fully hands-off, **enable auto-unlock** (Alby Hub →
+Settings). An update restarts the hub, so without auto-unlock it would come back
+locked — therefore auto-update only runs when auto-unlock is on. The trade-off:
+your unlock password is stored on the device, so keep your **seed phrase** safe
+as your real backup. With manual unlock, just update when the hub shows the
+**Update Available** banner.

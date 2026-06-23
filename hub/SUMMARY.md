@@ -9,6 +9,7 @@
   * [🐋 Docker](alby-hub-flavors/docker.md)
   * [⚡ Umbrel, Start9, etc](alby-hub-flavors/umbrel-start9-etc.md)
   * [🐧 Linux](alby-hub-flavors/linux.md)
+  * [🍓 Raspberry Pi](alby-hub-flavors/raspberry-pi.md)
   * [🆙 Updating](alby-hub-flavors/updating.md)
   * [🤖 Using AI to Install Your Hub](alby-hub-flavors/using-ai-to-install-your-hub.md)
 * [👛 Wallet](wallet/README.md)

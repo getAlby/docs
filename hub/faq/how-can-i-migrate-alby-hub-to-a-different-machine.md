@@ -44,10 +44,22 @@ These steps help you move your self-hosted Alby Hub with an active Pro subscript
 
 * A self-hosted Alby Hub with an active **Pro subscription**
 * **Dynamic Channels Backup** enabled: Alby Hub → Settings → Backup
+* Access to your **12-word recovery phrase**
 
 #### Migration steps
 
-1. Follow the same process described in: [Hosted Hub -> Self-hosted Pro migration](how-can-i-migrate-alby-hub-to-a-different-machine.md#id-3.-hosted-hub-greater-than-self-hosted-pro-migration)
+1.  **Shut down your old self-hosted Hub.**
+
+    > ⚠️ **Important:** Do not start it again. Restarting the old instance may force-close your lightning channels.
+2. Install your self-hosted Alby Hub on the new device.\
+   ⚠️ **Important:** We recommend using a device that is always online (e.g., a cloud server, Start9, or Umbrel).
+3. Start your new Alby Hub and go through the onboarding process.
+4. During onboarding, connect the Hub to the **same Alby Account** you used previously. This keeps your Pro subscription active — there is no need to unsubscribe or subscribe again.
+5. Click **“Advanced Setup”.**
+6. Click **"Import Existing Recovery Phrase"**.
+7. Choose an **unlock password** (can be the same as your old one, or a new one) and then **enter your 12-word recovery phrase**.
+
+**That's it. The migration is done.** 🎉
 
 **Note**, at the moment it is not possible to migrate a self-hosted Alby Hub with a Pro subscription with enabled dynamic channels backup to a self-hosted Alby Hub without a subscription. If you would like this feature, please submit a feature request to our [feedback board](https://feedback.getalby.com/-alby-hub-request-a-feature).
 

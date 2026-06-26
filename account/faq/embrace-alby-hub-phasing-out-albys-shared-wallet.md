@@ -23,7 +23,7 @@ On January 4, 2025 - one day after the [Proof of Keys day](https://en.bitcoin.it
 
 If you created an Alby account before March 24, 2024, you were warned during the whole 2024 to remove your sats before **January 3, 2025**. [Spin up your own Alby Hub](https://guides.getalby.com/user-guide/alby-hub/alby-hub-flavors) to withdraw any remaining balance from the shared wallet. We’ll provide you with guidance and reminders throughout this transition to ensure a smooth process.
 
-After **January 4, 2025, the remaining balance was converted into Fee Credits**. Those credits were used to cover fees of one month of a hosted Alby Hub subscription and one payment channel making it easy to start your own self-custodial Hub. Learn more about Fee Credits [here](https://guides.getalby.com/user-guide/alby-account-and-browser-extension/alby-account/faqs-alby-account/what-are-fee-credits-in-my-alby-account). The fee credits lasted during the first 3 quarters of 2025 and are no longer available.
+After **January 4, 2025, the remaining balance was converted into Fee Credits**. Those credits were used to cover fees of one month of a hosted Alby Hub subscription and one payment channel making it easy to start your own self-custodial Hub. [Learn more about Fee Credits](https://guides.getalby.com/user-guide/alby-account-and-browser-extension/alby-account/faqs-alby-account/what-are-fee-credits-in-my-alby-account). The fee credits lasted during the first 3 quarters of 2025 and are no longer available.
 
 This approach served as a bridge easing the transition from legacy wallets while empowering you to maintain an active presence in the lightning network.
 
@@ -191,7 +191,7 @@ We want to make it as easy as possible for you. [Start on this page](https://gui
 
 <summary>Can I use Alby Hub for free?</summary>
 
-Installing Alby Hub on your own server, desktop, Start9, Umbrel, Nodana.io or Casa OS is free. If you'd like to support Alby and unlock extra perks, check out [Alby Pro](https://getalby.com/subscription/pro). The latest pricing plans and their features are available [here](https://getalby.com/pricing).&#x20;
+Installing Alby Hub on your own server, desktop, Start9, Umbrel, Nodana.io or Casa OS is free. If you'd like to support Alby and unlock extra perks, check out [Alby Pro](https://getalby.com/subscription/pro). The latest [pricing plans and their features](https://getalby.com/pricing) are also available.&#x20;
 
 </details>
 

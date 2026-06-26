@@ -1,6 +1,6 @@
 # How to restart Alby Hub after my subscription was cancelled?
 
-If your **hosted Alby Hub** subscription remained unpaid for several weeks, your Hub was shut down and the subscription was automatically canceled.
+If your **hosted Alby Hub** subscription remained unpaid for several weeks, your Hub was shut down and the subscription was automatically cancelled.
 
 This prevents your Alby Account from accumulating additional charges.
 

@@ -15,25 +15,9 @@ Because [Alby Hub](https://getalby.com/alby-hub) is self-custodial, keeping a co
 
 **Jump directly to the setup that applies to you:**
 
-1. [Alby Hub with Alby Cloud](backups-and-recover.md#alby-hub-with-alby-cloud)
-2. [Alby Hub with Pro](backups-and-recover.md#alby-hub-with-pro)
-3. [Alby Hub self-hosted with an Alby account](backups-and-recover.md#alby-hub-self-hosted-diy-with-an-alby-account)
-4. [Alby Hub self-hosted without an Alby account](backups-and-recover.md#alby-hub-self-hosted-without-an-alby-account)
-
-## Alby Hub with Alby Cloud
-
-### On-chain Balance and Lightning Balance
-
-**Backup:** Find and backup your 12-word recovery phrase in your Alby Hub [here](faq/how-can-i-backup-my-keys.md) to recover your On-chain Balance and Lightning Balance anytime.
-
-Your Lightning Balance data is securely encrypted using your 12-word recovery phrase and is dynamically updated in your Alby account.\
-To see if automatic channel backups are enabled for your Hub go to Settings and select "Backups".
-
-**Recover:** Start a new Alby Hub in the same Alby account -> Select "Advanced Setup" -> enter your 12-word recovery phrase. Your On-chain and Lightning Balance will be fully restored 🚀.
-
-{% hint style="info" %}
-As Pro Cloud subscriber you only need to backup your recovery phrase and remember your Alby account.
-{% endhint %}
+1. [Alby Hub with Pro](backups-and-recover.md#alby-hub-with-pro)
+2. [Alby Hub self-hosted with an Alby account](backups-and-recover.md#alby-hub-self-hosted-diy-with-an-alby-account)
+3. [Alby Hub self-hosted without an Alby account](backups-and-recover.md#alby-hub-self-hosted-without-an-alby-account)
 
 ## Alby Hub with Pro
 
@@ -92,7 +76,7 @@ Without an Alby account you need to manually back up your recovery phrase and cr
 ## Backup Checklist
 
 {% tabs %}
-{% tab title="✨ Pro & Pro Cloud Subscription" %}
+{% tab title="✨ Pro Subscription" %}
 * [ ] Recovery phrase
 * [ ] Access to your Alby account: Immediate recovery of your funds
 {% endtab %}
@@ -135,7 +119,7 @@ Thanks for your understanding!
 **Congratulations! 🎉 You've successfully learned how to back up your Alby Hub, ensuring the safety of your funds and channels.** Remember to always keep your Recovery Phrase and latest channel backup handy. With your backups in place, your hub is now well-protected and ready for any situation! 🔐
 {% endhint %}
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Get a subscription to Pro Cloud! ☁️</strong><br><br>Unlock 24/7 availability for your self-hosted wallet by subscribing to Pro Cloud. Never worry about downtime again!</td><td></td><td></td><td><a href="https://getalby.com/subscription/new">https://getalby.com/subscription/new</a></td></tr><tr><td><strong>Learn more about your on-chain balance! 💰</strong><br><br>Discover the on-chain side of your self-custodial wallet. Click here to learn more about managing your Savings Balance securely.</td><td></td><td></td><td><a href="node/on-chain-balance.md">on-chain-balance.md</a></td></tr><tr><td><strong>Migrate your Hub! 🔄</strong><br><br>Planning to move your Alby Hub? The migration process is similar to a backup in many ways. Click here to explore more on how to migrate your hub seamlessly!</td><td></td><td></td><td><a href="faq/how-can-i-migrate-alby-hub-to-a-different-machine.md">how-can-i-migrate-alby-hub-to-a-different-machine.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Encrypted channel backups with Alby Pro 🔐</strong><br><br>Recover your lightning channels from just your recovery phrase. Enable dynamic backups by subscribing to Alby Pro.</td><td></td><td></td><td><a href="https://getalby.com/subscription/pro">https://getalby.com/subscription/pro</a></td></tr><tr><td><strong>Learn more about your on-chain balance! 💰</strong><br><br>Discover the on-chain side of your self-custodial wallet. Click here to learn more about managing your Savings Balance securely.</td><td></td><td></td><td><a href="node/on-chain-balance.md">on-chain-balance.md</a></td></tr><tr><td><strong>Migrate your Hub! 🔄</strong><br><br>Planning to move your Alby Hub? The migration process is similar to a backup in many ways. Click here to explore more on how to migrate your hub seamlessly!</td><td></td><td></td><td><a href="faq/how-can-i-migrate-alby-hub-to-a-different-machine.md">how-can-i-migrate-alby-hub-to-a-different-machine.md</a></td></tr></tbody></table>
 
 ***
 

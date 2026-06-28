@@ -16,8 +16,6 @@ A channel is offline when one of the two channel partners is offline. This means
 
 ### 2. 🧑‍🔧 If you're using **Alby Hub self-hosted**&#x20;
 
-_(not a subscriber to Alby Cloud, subscribers go straight to step 3)_
-
 Try this:
 
 * Reboot your Alby Hub (the whole instance).
@@ -26,7 +24,7 @@ Try this:
 If it’s still offline tomorrow, contact us: support.getalby.com
 
 {% hint style="success" %}
-Alby Hub Cloud subscribers enjoy a much higher chance of keeping their channels online and running smoothly! ✨
+Keeping your Hub online 24/7 — on a server, node device, or cloud provider — greatly improves your chances of keeping channels online and running smoothly! ✨
 {% endhint %}
 
 ***

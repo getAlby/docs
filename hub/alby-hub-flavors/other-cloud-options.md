@@ -2,7 +2,7 @@
 description: You can run Alby Hub on cloud service from almost any provider!
 ---
 
-# ☁️ Other Cloud Options
+# ☁️ Cloud Hosting
 
 You can find all releases, script binaries and install scripts of Alby Hub on [GitHub](https://github.com/getAlby/hub?tab=readme-ov-file#deploy-it-yourself).\
 \

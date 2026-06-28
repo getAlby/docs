@@ -17,7 +17,6 @@ This glossary contains authoritative definitions for all Bitcoin, lightning netw
 
 **Deployment Options**:
 
-* **Alby Cloud** = Fully managed cloud-hosted Alby Hub (24/7 uptime, automatic updates)
 * **DIY Pro** = Self-hosted with premium features (VSS backups, priority support)
 * **DIY Free** = Self-hosted without subscription (all core features)
 
@@ -40,12 +39,6 @@ Your Alby Hub is a comprehensive wallet solution, featuring both a lightning wal
 {% content-ref url="https://app.gitbook.com/s/WKqqWqKEAO8XHGTjzhEl/features/lightning-address" %}
 [Lightning Address](https://app.gitbook.com/s/WKqqWqKEAO8XHGTjzhEl/features/lightning-address)
 {% endcontent-ref %}
-
-***
-
-### Alby Cloud
-
-Alby's fully managed, cloud-hosted Alby Hub service. Your Hub runs 24/7 in Alby's infrastructure while you maintain complete self-custody (only you control your keys). Includes automatic updates, VSS backups, priority support, and guaranteed uptime. Perfect for users wanting a professional self-custodial wallet without managing their own hardware. Subscription-based per month or year.
 
 ***
 
@@ -152,7 +145,7 @@ The premium subscription tier for self-hosted Alby Hub users. Adds advanced feat
 
 ### Dynamic Channel Backup (VSS)
 
-An advanced backup method that continuously updates your lightning channel state information as transactions occur. Available through VSS (Versioned Storage Service) for Alby Cloud & DIY Pro users, dynamic backups capture the latest channel state, enabling migration between machines without losing funds or forcing channel closures. (Contrast with static channel backups available for free users, which only capture a point-in-time snapshot.)
+An advanced backup method that continuously updates your lightning channel state information as transactions occur. Available through VSS (Versioned Storage Service) for Alby Pro subscribers, dynamic backups capture the latest channel state, enabling migration between machines without losing funds or forcing channel closures. (Contrast with static channel backups available for free users, which only capture a point-in-time snapshot.)
 
 ***
 
@@ -236,7 +229,7 @@ Only public channels can receive keysend payments. We recommend to open only pub
 
 An identifier that looks like an email address (e.g., hello@getalby.com) but shouldn't be confused with one. Simplifies receiving lightning payments: senders can pay directly to your address instead of requesting a new invoice each time. Not mandatory for using Lightning Network, just very convenient. Their only trade-off is they require a server provider (not fully decentralized).
 
-Alby provides free lightning addresses with every Alby web account, which can be connected to any NWC-compatible wallet (not just Alby Hub). That means if you leave "Alby ecosystem", but you are used to have your @getalby.com lightning address, you can continue using it with any other wallet that supports NWC. Only Alby subscribers (Alby Cloud or DIY Pro) can customize their lightning address to one of their choosing. You can also use your own domain for your lightning address (contact Alby [support](https://support.getalby.com) for setup assistance).
+Alby provides free lightning addresses with every Alby web account, which can be connected to any NWC-compatible wallet (not just Alby Hub). That means if you leave "Alby ecosystem", but you are used to have your @getalby.com lightning address, you can continue using it with any other wallet that supports NWC. Only Alby Pro subscribers can customize their lightning address to one of their choosing. You can also use your own domain for your lightning address (contact Alby [support](https://support.getalby.com) for setup assistance).
 
 ***
 
@@ -321,7 +314,7 @@ Self-custody on lightning requires a user to run their own node. Alby Hub is a s
 
 To send and receive payments your lightning node needs to be online. That's why we recommend users to run Alby Hub on machine that is always online.
 
-Consider Alby Cloud if you prefer a convenient hosting service with premium features for your Hub.
+If you prefer not to manage hardware yourself, you can run Alby Hub with a cloud provider of your choice.
 
 {% content-ref url="node/" %}
 [node](node/)
@@ -469,7 +462,7 @@ An atomic exchange that converts funds between onchain Bitcoin and lightning net
 
 ### VSS (Versioned Storage Service)
 
-A premium Alby Hub feature (available with both Alby Cloud & DIY Pro subscriptions) that enables continuous, versioned backups of your lightning channel states. Unlike static backups, VSS maintains up-to-date snapshots stored securely in the cloud, allowing seamless migration between machines without force-closing channels. A core feature of our Alby Cloud subscription, but also essential for self-hosted users who want maximum flexibility and recovery options: It can obtained by subscribing to the DIY Pro subscription.
+A premium Alby Hub feature (available with an Alby Pro subscription) that enables continuous, versioned backups of your lightning channel states. Unlike static backups, VSS maintains up-to-date snapshots stored securely, allowing seamless migration between machines without force-closing channels. Essential for self-hosted users who want maximum flexibility and recovery options: it can be obtained by subscribing to Alby Pro.
 
 ***
 

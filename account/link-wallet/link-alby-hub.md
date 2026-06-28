@@ -16,8 +16,8 @@ Alby Hub is your self-custodial lightning wallet. But it is more than that: It's
 
 ## How to get started with Alby Hub
 
-Alby Hub is a lightweight wallet created to run on different systems such as [Alby Cloud](https://getalby.com/pricing), on a server of your choice, on your desktop or even on a Raspberry Pi.
+Alby Hub is a lightweight wallet created to run on different systems such as a server of your choice, your desktop, a node device like Umbrel or Start9, or even a Raspberry Pi.
 
-### As a new users choose one of these options to run your Hub:
+### As a new user, choose one of these options to run your Hub:
 
-Navigate to [https://getalby.com/subscription/new](https://getalby.com/subscription/new)
+Follow the [Alby Hub deployment guide](https://guides.getalby.com/user-guide/alby-hub/alby-hub-flavors) to set up your own Hub.

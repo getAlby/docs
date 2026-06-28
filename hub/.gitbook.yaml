@@ -6,3 +6,4 @@ structure:
 
 redirects:
   node/advanced-increase-spending-balance-with-on-chain-bitcoin: node/advanced-increase-lightning-balance-with-on-chain-bitcoin.md
+  alby-hub-flavors/alby-cloud: alby-hub-flavors/other-cloud-options.md

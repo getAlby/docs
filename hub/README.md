@@ -9,14 +9,12 @@ description: >-
 
 [Alby Hub](https://getalby.com/alby-hub) is Alby's self-custodial bitcoin lightning wallet for apps, payments, and everyday use.
 
-
-
 <figure><img src=".gitbook/assets/chrome_oFZF0IDYZF.png" alt=""><figcaption><p>Alby Hub, your self-custodial wallet.</p></figcaption></figure>
 
 ### **Your Benefits** 🌟
 
 * **Easiness**: Running your own node has never been easier
-* **Ownership**: 24/7 online wallet with a lightning address and more cool features&#x20;
+* **Ownership**: 24/7 online wallet with a lightning address and more cool features
 * **Connectivity**: Plug-in your Hub for self-custodial in-app payments anywhere<br>
 
 ### **Feature overview** 🛠️
@@ -28,13 +26,7 @@ description: >-
 * Powers the [Alby Browser Extension](https://getalby.com/alby-extension) and [Alby Go mobile app](https://getalby.com/alby-go)
 * [Developer APIs](https://getalby.com/developers) and agent Skills
 
-#### Running Alby Hub is a walk in the park with the Alby's cloud hosting service:&#x20;
-
-* One click set up process
-* Always online to receive payments 24/7
-* Priority support service
-
-Alternatively, you can install [Alby Hub](https://getalby.com/alby-hub) on a server of your choice, your desktop computer, or a simple mini-computer (e.g., Raspberry Pi) and run it from your home.
+Install [Alby Hub](https://getalby.com/) on a cloud server of your choice, your desktop computer, or a simple mini-computer (e.g., Raspberry Pi) and run it from your home.
 
 ### Would you like to become self-sovereign, too?
 
@@ -43,8 +35,6 @@ Book your personal onboarding session [here](https://cal.com/getalby/alby-hub-on
 {% content-ref url="getting-started.md" %}
 [getting-started.md](getting-started.md)
 {% endcontent-ref %}
-
-
 
 ***
 

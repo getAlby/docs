@@ -4,7 +4,7 @@ description: There are many different ways to run Alby Hub
 
 # 🍕 Alby Hub flavors
 
-Alby Hub is 100% [open source](https://github.com/getAlby/hub). You can [run Alby Hub](https://getalby.com/alby-hub) on a server in the cloud, on your desktop or even on mini-PCs such as a Raspberry PI. You can easily migrate your Alby Hub to a different host or machine at any time.
+Alby Hub is 100% [open source](https://github.com/getAlby/hub). You can [run Alby Hub](https://getalby.com/alby-hub) on a server in the cloud, on your personal server (e.g. a mini pc) or on your desktop. You can easily migrate your Alby Hub to a different host or machine at any time.
 
 Here are your options to run your Alby Hub
 

@@ -48,7 +48,7 @@ The Alby Account 🐝 is **highly recommended** (though not technically required
 
 <figure><img src=".gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
 
-Follow the onboarding steps, where you can choose between self-hosting [Alby Hub](https://getalby.com/alby-hub) or using Alby’s convenient cloud service.
+Follow the onboarding steps, where you can choose between different [self-hosting options](https://getalby.com/alby-hub#download) such as a cloud server, a personal server or your desktop.
 
 After installing Alby Hub, you’ll see a list of tasks to complete the setup:
 

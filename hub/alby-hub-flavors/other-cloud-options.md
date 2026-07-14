@@ -24,7 +24,7 @@ To make the deployment of Alby Hub in the cloud as easy as possible, find guides
 
 {% columns %}
 {% column %}
-<div align="left"><figure><img src="../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (142).png" alt="" width="188"><figcaption></figcaption></figure></div>
 {% endcolumn %}
 
 {% column %}
@@ -64,7 +64,7 @@ To make the deployment of Alby Hub in the cloud as easy as possible, find guides
 
 {% columns %}
 {% column %}
-<div align="left"><figure><img src="../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (98).png" alt="" width="180"><figcaption></figcaption></figure></div>
 {% endcolumn %}
 
 {% column %}
@@ -94,7 +94,7 @@ To make the deployment of Alby Hub in the cloud as easy as possible, find guides
 
 {% columns %}
 {% column %}
-<div align="left"><figure><img src="../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (165).png" alt="" width="188"><figcaption></figcaption></figure></div>
 {% endcolumn %}
 
 {% column %}

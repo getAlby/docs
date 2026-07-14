@@ -5,7 +5,7 @@
 * [🍕 Alby Hub flavors](alby-hub-flavors/README.md)
   * [☁️ Cloud Hosting](alby-hub-flavors/other-cloud-options.md)
   * [🖥️ Desktop](alby-hub-flavors/desktop.md)
-  * [🐋 Docker](alby-hub-flavors/docker.md)
+  * [🐳 Docker](alby-hub-flavors/docker.md)
   * [⚡ Umbrel, Start9, etc](alby-hub-flavors/umbrel-start9-etc.md)
   * [🐧 Linux](alby-hub-flavors/linux.md)
   * [🆙 Updating](alby-hub-flavors/updating.md)

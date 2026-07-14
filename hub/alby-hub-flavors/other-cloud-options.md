@@ -10,94 +10,38 @@ To make the deployment of Alby Hub in the cloud as easy as possible, find guides
 
 ## Overview
 
+### Deploy on Fly.io
 
+[<img src="../.gitbook/assets/fly.png" alt="Deploy to Hetzner" data-size="original">](https://getalby.com/alby-hub/cloud/fly)
 
-{% columns %}
-{% column %}
-<div align="center"><figure><img src="../.gitbook/assets/image (167).png" alt="" width="150"><figcaption></figcaption></figure></div>
-{% endcolumn %}
+### Deploy on Render
 
-{% column %}
-#### [**Deploy on Fly.io**](https://getalby.com/alby-hub/cloud/fly)
-{% endcolumn %}
-{% endcolumns %}
+[<img src="../.gitbook/assets/render.png" alt="Deploy to Hetzner" data-size="original">](https://getalby.com/alby-hub/cloud/render)
 
-{% columns %}
-{% column %}
-<div align="center"><figure><img src="../.gitbook/assets/image (142).png" alt="" width="188"><figcaption></figcaption></figure></div>
-{% endcolumn %}
+### Deploy on Railway
 
-{% column %}
-#### [**Deploy on Render**](https://getalby.com/alby-hub/cloud/render)
-{% endcolumn %}
-{% endcolumns %}
+[<img src="../.gitbook/assets/railway.png" alt="Deploy to Hetzner" data-size="original">](https://getalby.com/alby-hub/cloud/railway)
 
-{% columns %}
-{% column %}
-<div align="center"><figure><img src="../.gitbook/assets/image (131).png" alt="" width="237"><figcaption></figcaption></figure></div>
-{% endcolumn %}
+### Deploy on Google Cloud
 
-{% column %}
-#### [**Deploy on Railway**](https://getalby.com/alby-hub/cloud/railway)
-{% endcolumn %}
-{% endcolumns %}
+[<img src="../.gitbook/assets/google-cloud.png" alt="Deploy to Hetzner" data-size="original">](https://getalby.com/alby-hub/cloud/google-cloud)
 
-{% columns %}
-{% column %}
-<div align="center"><figure><img src="../.gitbook/assets/image (84).png" alt="" width="188"><figcaption></figcaption></figure></div>
-{% endcolumn %}
+### Deploy on AWS Lightsail
 
-{% column %}
-#### [**Deploy on Google Cloud**](https://getalby.com/alby-hub/cloud/google-cloud)
-{% endcolumn %}
-{% endcolumns %}
+[<img src="../.gitbook/assets/aws-lightsail.png" alt="Deploy to Hetzner" data-size="original">](https://getalby.com/alby-hub/cloud/aws-lightsail)
 
-{% columns %}
-{% column %}
-<div align="center"><figure><img src="../.gitbook/assets/image (97).png" alt="" width="188"><figcaption></figcaption></figure></div>
-{% endcolumn %}
+### Deploy on AWS EC2
 
-{% column %}
-#### [**Deploy on AWS Lightsail**](https://getalby.com/alby-hub/cloud/aws-lightsail)
-{% endcolumn %}
-{% endcolumns %}
+[<img src="../.gitbook/assets/aws-ec2.png" alt="Deploy to Hetzner" data-size="original">](https://getalby.com/alby-hub/cloud/aws-ec2)
 
-{% columns %}
-{% column %}
-<div align="center"><figure><img src="../.gitbook/assets/image (98).png" alt="" width="180"><figcaption></figcaption></figure></div>
-{% endcolumn %}
+### Deploy on Linode
 
-{% column %}
-#### [**Deploy on** AWS EC2](https://getalby.com/alby-hub/cloud/aws-ec2)
-{% endcolumn %}
-{% endcolumns %}
+[<img src="../.gitbook/assets/linode.png" alt="Deploy to Hetzner" data-size="original">](https://getalby.com/alby-hub/cloud/linode)
 
-{% columns %}
-{% column %}
-<div align="center"><figure><img src="../.gitbook/assets/image (122).png" alt="" width="149"><figcaption></figcaption></figure></div>
-{% endcolumn %}
+### Deploy on Vultr
 
-{% column %}
-#### [**Deploy on** Linode](https://getalby.com/alby-hub/cloud/linode)
-{% endcolumn %}
-{% endcolumns %}
+[<img src="../.gitbook/assets/vultr.png" alt="Deploy to Hetzner" data-size="original">](https://getalby.com/alby-hub/cloud/vultr)
 
-{% columns %}
-{% column %}
-<div align="center"><figure><img src="../.gitbook/assets/image (156).png" alt="" width="188"><figcaption></figcaption></figure></div>
-{% endcolumn %}
+### Deploy on Hetzner
 
-{% column %}
-#### [**Deploy on** Vultr](https://getalby.com/alby-hub/cloud/vultr)
-{% endcolumn %}
-{% endcolumns %}
-
-{% columns %}
-{% column %}
-<div align="center"><figure><img src="../.gitbook/assets/image (165).png" alt="" width="188"><figcaption></figcaption></figure></div>
-{% endcolumn %}
-
-{% column %}
-#### [**Deploy on** Hetzner](https://getalby.com/alby-hub/cloud/hetzner)
-{% endcolumn %}
-{% endcolumns %}
+[<img src="../.gitbook/assets/hetzner.png" alt="Deploy to Hetzner" data-size="original">](https://getalby.com/alby-hub/cloud/hetzner)

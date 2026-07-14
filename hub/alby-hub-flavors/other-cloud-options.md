@@ -10,126 +10,94 @@ To make the deployment of Alby Hub in the cloud as easy as possible, find guides
 
 ## Overview
 
-* [Fly.io](other-cloud-options.md#fly.io)
-* [Nodana](other-cloud-options.md#nodana)
-* [Render](other-cloud-options.md#render)
 
-## Fly.io
 
-Fly is a popular micro-VM hosting platform.
+{% columns %}
+{% column %}
+<div align="left"><figure><img src="../.gitbook/assets/image (167).png" alt="" width="150"><figcaption></figcaption></figure></div>
+{% endcolumn %}
 
-<details>
+{% column %}
+#### [**Deploy on Fly.io**](https://getalby.com/alby-hub/cloud/fly)
+{% endcolumn %}
+{% endcolumns %}
 
-<summary>How to use Fly.io to run Alby Hub</summary>
+{% columns %}
+{% column %}
+<div align="left"><figure><img src="../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure></div>
+{% endcolumn %}
 
-At Alby we are giving you the possibility to connect your own bitcoin lightning node to your [Alby Account](https://getalby.com/#account). To make it easier to run the node we are using a service to decouple the signing of the transactions from the node. This guide explains how you can self-host the signer app to send and receive payments in a sovereign way. Your lightning node will be independently deployed by Greenlight.
+{% column %}
+#### [**Deploy on Render**](https://getalby.com/alby-hub/cloud/render)
+{% endcolumn %}
+{% endcolumns %}
 
-**Step 1: Create an account on Fly.io and add your credit card details (for free).**
+{% columns %}
+{% column %}
+<div align="left"><figure><img src="../.gitbook/assets/image (131).png" alt="" width="237"><figcaption></figcaption></figure></div>
+{% endcolumn %}
 
-Fly.io offers a free tier which just provides enough compute resources to host your signer app for your own lightning node. Your card won't be charged as long as you only use your account to host the app.
+{% column %}
+#### [**Deploy on Railway**](https://getalby.com/alby-hub/cloud/railway)
+{% endcolumn %}
+{% endcolumns %}
 
-**Step 2: Install the flyctl**
+{% columns %}
+{% column %}
+<div align="left"><figure><img src="../.gitbook/assets/image (84).png" alt="" width="188"><figcaption></figcaption></figure></div>
+{% endcolumn %}
 
-Have a look at [this page](https://fly.io/docs/hands-on/install-flyctl/) for Windows, macOS and Linux
+{% column %}
+#### [**Deploy on Google Cloud**](https://getalby.com/alby-hub/cloud/google-cloud)
+{% endcolumn %}
+{% endcolumns %}
 
-**Step 3: Sign into your fly account via the CLI**
+{% columns %}
+{% column %}
+<div align="left"><figure><img src="../.gitbook/assets/image (97).png" alt="" width="188"><figcaption></figcaption></figure></div>
+{% endcolumn %}
 
-To sign in, run
+{% column %}
+#### [**Deploy on AWS Lightsail**](https://getalby.com/alby-hub/cloud/aws-lightsail)
+{% endcolumn %}
+{% endcolumns %}
 
-<pre><code><strong>fly auth login
-</strong></code></pre>
+{% columns %}
+{% column %}
+<div align="left"><figure><img src="../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure></div>
+{% endcolumn %}
 
-When your browser opens to the Fly.io sign-in screen, enter your user name and password to sign in.
+{% column %}
+#### [**Deploy on** AWS EC2](https://getalby.com/alby-hub/cloud/aws-ec2)
+{% endcolumn %}
+{% endcolumns %}
 
-**Step 4: Save the config file**
+{% columns %}
+{% column %}
+<div align="left"><figure><img src="../.gitbook/assets/image (122).png" alt="" width="149"><figcaption></figcaption></figure></div>
+{% endcolumn %}
 
-{% hint style="warning" %}
-Change the name 'Alby-nwc' to a custom name. For example: 'I-run-AlbyHub'
-{% endhint %}
+{% column %}
+#### [**Deploy on** Linode](https://getalby.com/alby-hub/cloud/linode)
+{% endcolumn %}
+{% endcolumns %}
 
-```
-# fly.toml app configuration file generated for nwc
+{% columns %}
+{% column %}
+<div align="left"><figure><img src="../.gitbook/assets/image (156).png" alt="" width="188"><figcaption></figcaption></figure></div>
+{% endcolumn %}
 
-app = 'Alby-nwc'
-primary_region = 'lax'
-swap_size_mb = 2048
+{% column %}
+#### [**Deploy on** Vultr](https://getalby.com/alby-hub/cloud/vultr)
+{% endcolumn %}
+{% endcolumns %}
 
-[build]
-  image = 'ghcr.io/getalby/hub:latest'
+{% columns %}
+{% column %}
+<div align="left"><figure><img src="../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure></div>
+{% endcolumn %}
 
-[env]
-  DATABASE_URI = '/data/nwc.db'
-  WORK_DIR = '/data'
-
-[[mounts]]
-  source = 'nwc_data'
-  destination = '/data'
-  initial_size = '1'
-  auto_extend_size_threshold = 80
-  auto_extend_size_increment = "1GB"
-  auto_extend_size_limit = "5GB"
-
-[http_service]
-  internal_port = 8080
-  force_https = true
-  auto_stop_machines = false
-  auto_start_machines = true
-  min_machines_running = 0
-  processes = ['app']
-
-[[vm]]
-  cpu_kind = 'shared'
-  cpus = 1
-  memory = '512mb'
-```
-
-**Step 5: Launch the app**
-
-To launch the signer app, run
-
-<pre><code><strong>fly launch
-</strong></code></pre>
-
-Make sure you run this command in the directory where you store the config file.
-
-The cli might ask you:\
-Would you like to copy its configuration to the new app? **Yes**\
-Do you want to tweak these settings before proceeding? **No**\
-Create .dockerignore from 1 .gitignore files? **No**
-
-If you see: `Watch your deployment at https://fly.io/apps/....`the app has been deployed successfully.
-
-**Step 6: Access the app**
-
-Log into your Fly.io account and you see the new app in the 'Apps' view.
-
-<figure><img src="../.gitbook/assets/m3tI3zBUSs.png" alt=""><figcaption></figcaption></figure>
-
-Click on the app to access it on your browser.
-
-**Step 7: Set up Alby Hub**
-
-Click on "Get Started"
-
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
-
-#### How to update Alby Hub on Fly.io
-
-In Powershell on Windows, navigate to the directory of your fly.toml with `cd [directory path]`. Then type `fly deploy` in Powershell.\
-You'll see further information printed in Powershell.
-
-{% hint style="success" %}
-**Congrats you successfully deployed and set up your own lightning node.**
-{% endhint %}
-
-</details>
-
-## Nodana
-
-Deploy Alby Hub on Nodana with one click. No personal details required. Start [here](https://nodana.io/).
-
-## Render
-
-You can use the one-click install button for the [Render](https://render.com/) cloud platform available [here](https://github.com/getAlby/hub?tab=readme-ov-file#deploy-it-yourself).
-
-<figure><img src="../.gitbook/assets/chrome_5a8QhdgCLd.png" alt=""><figcaption><p>One-click install button for <a href="https://render.com/">Render</a></p></figcaption></figure>
+{% column %}
+#### [**Deploy on** Hetzner](https://getalby.com/alby-hub/cloud/hetzner)
+{% endcolumn %}
+{% endcolumns %}

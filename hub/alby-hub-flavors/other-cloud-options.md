@@ -18,6 +18,10 @@ To make the deployment of Alby Hub in the cloud as easy as possible, find guides
 
 [<img src="../.gitbook/assets/render.png" alt="Deploy to Hetzner" data-size="original">](https://getalby.com/alby-hub/cloud/render)
 
+### Deploy on DigitalOcean
+
+[<img src="../.gitbook/assets/digitalocean.png" alt="Deploy to Hetzner" data-size="original">](https://getalby.com/alby-hub/cloud/digitalocean)
+
 ### Deploy on Railway
 
 [<img src="../.gitbook/assets/railway.png" alt="Deploy to Hetzner" data-size="original">](https://getalby.com/alby-hub/cloud/railway)

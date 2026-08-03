@@ -9,7 +9,7 @@ You can transfer bitcoin between your Alby Hub on-chain balance and your Alby Hu
 {% hint style="info" %}
 **Our integrated swap provider, Boltz, has temporarily disabled its swap service until further notice. As a result, Lightning ↔ Bitcoin On-chain swaps in Alby Hub are currently unavailable.**\
 \
-**We'll post the latest status, updates, and alternative swap providers here.**\
+We'll post the latest status, updates, and alternative swap providers here.\
 \
 BitcoinVN:
 

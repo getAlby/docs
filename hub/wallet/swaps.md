@@ -7,7 +7,7 @@ description: How to swap bitcoin between your on-chain and lightning balances⚡
 You can transfer bitcoin between your Alby Hub on-chain balance and your Alby Hub lightning balance through a swap, using its existing channels and receiving capacity. ⚡🔄
 
 {% hint style="info" %}
-**Our integrated swap provider, Boltz, has temporarily disabled its swap service until further notice. As a result, Lightning ↔ Bitcoin On-chain swaps in Alby Hub are currently unavailable.**\
+**Our integrated swap provider, Boltz, has temporarily disabled its swap service until further notice (**[**source**](https://x.com/Boltzhq/status/2084311537502630319)**). As a result, Lightning ↔ Bitcoin On-chain swaps in Alby Hub are currently unavailable.**\
 \
 We'll post the latest status, updates, and alternative swap providers here.\
 \

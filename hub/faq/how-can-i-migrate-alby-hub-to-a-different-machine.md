@@ -69,7 +69,7 @@ These steps help you move your self-hosted Alby Hub with an active Pro subscript
 
 **How to migrate your Alby Hub from a hosted Hub (Alby Cloud) to a self-hosted setup with a Pro subscription**
 
-These steps help you move your Alby Hub from a hosted Hub to a self-hosted device with a Pro subscription, while keeping all channels active. You will only need to reconnect your apps afterward.
+These steps help you move your Alby Hub from a hosted Hub to a self-hosted device with a Pro subscription, while keeping all channels active. Apps connected via NWC keep working as before.
 
 #### **Before you start**
 
@@ -110,6 +110,6 @@ These steps help you move your Alby Hub from a hosted Hub to a self-hosted devic
 
 2. Your self-hosted Hub will now show a warning that your channel data is stored by Alby's Versioned Storage Service, which is a paid feature. Click **Subscribe to Alby Pro** (or go to [getalby.com/subscription/pro](https://getalby.com/subscription/pro)) and subscribe. The warning disappears once the subscription is active.
 3. Deleting the hosted Hub unlinks your Hub from your Alby Account. Re-link it from your self-hosted Hub: go to **Connections → Connected Apps** and click **"Link your Alby Account"**.
-4. Reconnect your apps (e.g. the Alby Hub PWA, Alby Go, browser extension) to the new address of your self-hosted Hub.
+4. If you installed Alby Hub as a PWA (Progressive Web App) on your phone or computer, remove it and add it again from the new address of your self-hosted Hub. Apps connected via NWC (e.g. Alby Go, the browser extension) keep working as before.
 
 **That's it. The migration is done.** 🎉

@@ -100,9 +100,11 @@ These steps help you move your Alby Hub from a hosted Hub to a self-hosted devic
 5. If you run your hub as a system service, or in Umbrel/Start9, your Hub should restart automatically. Otherwise, wait for it to fully exit, and then start it again.
 6. Once your Alby Hub is online, you will be asked to connect your Alby Account. — simply log in once more.
 7. Enter your **unlock password** to start the node.\
-   The initial sync can take a while, even on a fast connection — this is expected. Your channels and balances will show up once the sync is complete.
+   The initial sync can take a while, even on a fast connection — this is expected. Your channels and balances will show up once the sync is complete. 
 
 #### After the migration
+
+> ⚠️ Make sure your new hub is synced and running before continuing.
 
 1. Go to [getalby.com/subscription](https://getalby.com/subscription), click **Cancel Subscription** and confirm the deletion of your hosted Hub deployment.
 

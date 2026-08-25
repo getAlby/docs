@@ -11,10 +11,12 @@ You can transfer bitcoin between your Alby Hub on-chain balance and your Alby Hu
 \
 We'll post the latest status, updates, and alternative swap providers here.\
 \
-BitcoinVN (excluding U.S. IP addresses):
+1\) BitcoinVN (excluding U.S. IP addresses):
 
 * [Lightning -> On-chain](https://bitcoinvn.io/?deposit=btcln\&settle=btcdelayed\&ref=0d421c95ad58096d)
 * [On-chain -> Lightning](https://bitcoinvn.io/?deposit=btc\&settle=btcln\&ref=0d421c95ad58096d)
+
+2\) [Sats Routing](https://satsrouting.exchange/) (including U.S. IP addresses)
 {% endhint %}
 
 ## Overview:

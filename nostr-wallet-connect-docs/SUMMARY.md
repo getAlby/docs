@@ -45,5 +45,6 @@
 
 ## Contribute
 
+* [Documentation](contribute/documentation.md)
 * [Specification](contribute/specification.md)
 * [Design Assets](contribute/design-assets.md)

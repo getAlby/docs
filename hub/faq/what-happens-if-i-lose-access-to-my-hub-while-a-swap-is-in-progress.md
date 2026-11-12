@@ -16,7 +16,7 @@ Lightning to on-chain swaps are atomic. Make sure to read our [backup guide](htt
 
 ## Swap In (On-chain ➡️ Lightning)
 
-Swapping in requires you to send on-chain bitcoin from your wallet to an on-chain address. These funds will be claimed by Boltz if the swap succeeds. In case the swap fails (for example, Boltz cannot reach your Hub to make the payment, or you do not have enough receiving capacity in your channels, or you accidentally send the wrong amount), you must be able to recover the funds that you have sent to the on-chain address.
+Swapping in requires you to send on-chain bitcoin from your wallet to an on-chain address. These funds will be claimed by SATS Routing if the swap succeeds. In case the swap fails (for example, SATS Routing cannot reach your Hub to make the payment, or you do not have enough receiving capacity in your channels, or you accidentally send the wrong amount), you must be able to recover the funds that you have sent to the on-chain address.
 
 As long as you leave your Hub online, Alby Hub will automatically recover funds from failed swaps into your Hub's on-chain balance.
 
@@ -28,23 +28,25 @@ If the swap does still not succeed 24 hours after you initiated the swap, you ca
 
 In case you lose access to your Hub (e.g. you self-host and your hard-drive dies) or if the **Refund Swap** button does not work, you can still recover funds from failed swaps as long as you have [backed up your recovery phrase](https://guides.getalby.com/user-guide/alby-hub/backups-and-recover).
 
-#### Step 1: Derive Your Boltz Mnemonic From Your Recovery Phrase
+#### Step 1: Derive Your Swap Mnemonic From Your Recovery Phrase
 
 {% hint style="info" %}
-In the following section you will need to enter your recovery phrase in an application to derive your Boltz mnemonic. **DO NOT enter your recovery phrase in any website or application that you do not trust. If you have any concerns, please contact** [**Alby Support**](https://support.getalby.com/)**.**
+In the following section you will need to enter your recovery phrase in an application to derive your swap mnemonic. **DO NOT enter your recovery phrase in any website or application that you do not trust. If you have any concerns, please contact** [**Alby Support**](https://support.getalby.com/)**.**
 {% endhint %}
 
 {% hint style="warning" %}
-If you still have access to Alby Hub, you can go to **Settings -> Debug Tools** and press the **Swap Mnemonic** button to reveal your Boltz Mnemonic.
+If you still have access to Alby Hub, you can go to **Settings -> Debug Tools** and press the **Swap Mnemonic** button to reveal your swap mnemonic.
 {% endhint %}
 
-Alby Hub uses a dedicated mnemonic derived from your main recovery phrase for Boltz swaps (see [BIP-85](https://bip85.com/)). To derive this mnemonic you can import your Hub's recovery phrase into any wallet that supports BIP-85. Some hardware wallets support BIP-85 child mnemonic derivation. [Ian Coleman's BIP39 tool](https://github.com/iancoleman/bip39) (_Standalone offline version recommended_) also supports deriving BIP-85 child mnemonics - search for "Show BIP85" and check the checkbo&#x78;**.**
+Alby Hub uses a dedicated mnemonic derived from your main recovery phrase for swaps (see [BIP-85](https://bip85.com/)). To derive this mnemonic you can import your Hub's recovery phrase into any wallet that supports BIP-85. Some hardware wallets support BIP-85 child mnemonic derivation. [Ian Coleman's BIP39 tool](https://github.com/iancoleman/bip39) (_Standalone offline version recommended_) also supports deriving BIP-85 child mnemonics - search for "Show BIP85" and check the checkbo&#x78;**.**
 
 Use the following derivation index: **128260**
 
-#### Step 2: Execute Boltz Rescue
+#### Step 2: Rescue Your Swap
 
-Visit the [Boltz Refund Page](https://boltz.exchange/refund/external/btc?mode=rescue-key). Enter your **Boltz Mnemonic.** DO NOT enter your boltz mnemonic in any website other than the official boltz.exchange website. Your Boltz mnemonic will not be sent to Boltz - it will only be used client-side by the [Boltz Web App](https://github.com/BoltzExchange/boltz-web-app/).&#x20;
+For swaps made through SATS Routing, visit the [SATS Routing Rescue page](https://satsrouting.exchange/rescue?mode=rescue-key). Enter your **swap mnemonic** as the rescue key. **DO NOT enter your main Alby Hub recovery phrase.** Only enter your swap mnemonic on the official website of the provider that handled your swap.
+
+If your swap was made through the previous provider, Boltz, use the [Boltz Refund Page](https://boltz.exchange/refund/external/btc?mode=rescue-key) instead. If you are unsure which provider handled your swap, contact [Alby Support](https://support.getalby.com/) before entering your swap mnemonic.
 
 The swaps that can be rescued will show up in a list. When you click on one you will be able to provide a refund address from your on-chain bitcoin wallet.
 

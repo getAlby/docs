@@ -6,6 +6,8 @@ description: How to swap bitcoin between your on-chain and lightning balances⚡
 
 You can transfer bitcoin between your Alby Hub on-chain balance and your Alby Hub lightning balance through a swap, using its existing channels and receiving capacity.&#x20;
 
+Alby Hub uses [SATS Routing](https://satsrouting.exchange/) as its swap provider.
+
 ## Overview:
 
 1. [Swap In](swaps.md#swap-in): Transfer funds from your on-chain balance to your lightning balance.

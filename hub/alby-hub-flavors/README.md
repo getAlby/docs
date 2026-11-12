@@ -6,6 +6,10 @@ description: There are many different ways to run Alby Hub
 
 Alby Hub is 100% [open source](https://github.com/getAlby/hub). You can [run Alby Hub](https://getalby.com/alby-hub) on a server in the cloud, on your personal server (e.g. a mini pc) or on your desktop. You can easily migrate your Alby Hub to a different host or machine at any time.
 
+{% hint style="warning" %}
+When self-hosting Alby Hub with Docker or Linux, do not expose its HTTP port directly to the public internet. Keep it on a secure private network and restrict access with a firewall. For remote access, use a VPN or a restricted HTTPS reverse proxy. Cloud deployments should use the HTTPS endpoint provided by the platform instead of publishing the raw HTTP port.
+{% endhint %}
+
 Here are your options to run your Alby Hub
 
 {% content-ref url="other-cloud-options.md" %}

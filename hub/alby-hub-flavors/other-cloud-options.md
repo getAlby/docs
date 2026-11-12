@@ -8,6 +8,10 @@ You can find all releases, script binaries and install scripts of Alby Hub on [G
 \
 To make the deployment of Alby Hub in the cloud as easy as possible, find guides and 1-click deploy options below 👇
 
+{% hint style="warning" %}
+Use the HTTPS endpoint provided by the deployment platform. Do not expose Alby Hub's raw HTTP port `8080` directly to the public internet. If you configure a cloud deployment manually, keep the HTTP service behind a restricted HTTPS reverse proxy or access it through a VPN.
+{% endhint %}
+
 ## Overview
 
 ### Deploy on Fly.io

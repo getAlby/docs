@@ -12,6 +12,8 @@ This guide walks you through creating persistent storage, starting Alby Hub with
 
 {% hint style="warning" %}
 We recommend having a solid understanding of Docker management before attempting to host your Alby Hub in a Docker container. If you're not experienced with Docker, please avoid this method, as it could lead to potential loss of funds.
+
+Alby Hub is intended to run on a secure private network. Do not expose its HTTP port directly to the public internet. The examples below bind port `8080` to `127.0.0.1`, making the Hub reachable only from the Docker host by default.
 {% endhint %}
 
 ## Prerequisites
@@ -91,7 +93,8 @@ services:
     volumes:
       - ./albyhub-data:/data
     ports:
-      - "8080:8080"
+      # Bound to 127.0.0.1 so Alby Hub is reachable only from this machine.
+      - "127.0.0.1:8080:8080"
       # Required for Lightning peer communication when using LDK.
       # - "9735:9735"
     environment:
@@ -153,23 +156,23 @@ If Docker is running on the same computer you are using, open:
 http://localhost:8080
 ```
 
-If Docker is running on another computer or server, open:
+The default configuration does not make Alby Hub reachable from another device. To access it from a device on your trusted local network or VPN, bind the port to the server's private or VPN IP address in `docker-compose.yml`:
 
 ```
-http://your-server-ip:8080
+"<private-or-vpn-ip>:8080:8080"
 ```
 
-For example:
+For example, use `"192.168.1.100:8080:8080"` for a server with the private IP address `192.168.1.100`. Then restrict port `8080` with Docker-aware firewall rules or a provider network firewall so that only your local network or VPN can reach it. Open the Hub using the same private IP address:
 
 ```
 http://192.168.1.100:8080
 ```
 
-If you are running Alby Hub on a remote server, make sure port `8080` is allowed through the server and hosting-provider firewall.
+Do not allow access to port `8080` from the public internet in either the host or hosting-provider firewall. On a remote server, either keep the loopback binding and place a restricted HTTPS reverse proxy in front of Alby Hub, or bind the port only to a private or VPN interface.
 
-If you are using LDK, port `9735` must also be reachable from the internet for Lightning peer communication.
+The broader `"8080:8080"` mapping also enables access from other devices, but it publishes the port on every host interface. Use it only on a trusted local network with firewall rules that account for Docker-published ports.
 
-For better security, avoid exposing port `8080` publicly unless necessary. Consider restricting access to your own network, VPN, or IP address, or configuring HTTPS through a reverse proxy.
+If you are using LDK, port `9735` must be reachable from the internet for Lightning peer communication. This does not require exposing the Alby Hub HTTP port.
 
 ### Step 5: Set up Alby Hub
 
@@ -231,7 +234,7 @@ docker run -d \
   --name albyhub \
   -v ~/albyhub/albyhub-data:/data \
   -e WORK_DIR=/data/albyhub \
-  -p 8080:8080 \
+  -p 127.0.0.1:8080:8080 \
   --pull always \
   ghcr.io/getalby/hub:latest
 ```
@@ -243,11 +246,13 @@ docker run -d \
   --name albyhub \
   -v ~/albyhub/albyhub-data:/data \
   -e WORK_DIR=/data/albyhub \
-  -p 8080:8080 \
+  -p 127.0.0.1:8080:8080 \
   -p 9735:9735 \
   --pull always \
   ghcr.io/getalby/hub:latest
 ```
+
+These commands make the Hub interface reachable only from the Docker host. If you intentionally make it available on a trusted local network or VPN, replace the mapping with `-p <private-or-vpn-ip>:8080:8080` and restrict port `8080` with Docker-aware firewall rules or a provider network firewall. Using `-p 8080:8080` instead publishes the port on every host interface.
 
 The `~/albyhub/albyhub-data` folder stores your Hub data outside the container so that it is preserved when the container is stopped, removed, or updated.
 

@@ -95,17 +95,19 @@ docker stop albyhub
 docker rm albyhub
 ```
 
-Start Alby Hub again with the same data volume:
+Start Alby Hub again with the same data volume and bind the HTTP port to the Docker host:
 
 ```bash
 docker run -d --name albyhub \
   -v ~/.local/share/albyhub:/data \
   -e WORK_DIR='/data' \
-  -p 8080:8080 \
+  -p 127.0.0.1:8080:8080 \
   ghcr.io/getalby/hub:latest
 ```
 
 These commands keep your existing data in `~/.local/share/albyhub` and start Alby Hub with the latest image.
+
+If your existing deployment is intentionally reachable from a trusted local network or VPN, bind the port to that interface with `-p <private-or-vpn-ip>:8080:8080` and use Docker-aware firewall rules or a provider network firewall to block access from the public internet. Using `-p 8080:8080` publishes the port on every host interface.
 
 If you use Docker Compose, update by pulling the latest image and recreating the service with your existing compose file.
 

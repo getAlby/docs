@@ -13,6 +13,7 @@ icon: toolbox
 * [Dart](https://pub.dev/packages/nwc)
 * [Flutter](https://pub.dev/packages/ndk)
 * [Python](https://github.com/supertestnet/python_nwc)
+* [Ruby](https://github.com/MegalithicBTC/nwc-ruby)
 
 Are you missing a SDK? Join the community and help apps to adopt bitcoin payments with NWC.
 
@@ -29,6 +30,12 @@ Introducing Bitcoin Connect
 Bitcoin Connect works on all web frameworks. Code examples are available for  [HTML](https://github.com/getAlby/bitcoin-connect?tab=readme-ov-file#html-cdn), [JavaScript](https://github.com/getAlby/bitcoin-connect?tab=readme-ov-file#pure-js), [React](https://github.com/getAlby/bitcoin-connect?tab=readme-ov-file#react), [Next JS/SSR](https://github.com/getAlby/bitcoin-connect?tab=readme-ov-file#nextjs--ssr).
 
 Visit: [https://bitcoin-connect.com/](https://bitcoin-connect.com/)
+
+### OpenReceive
+
+OpenReceive is an open-source (MIT) library for taking bitcoin payments in your own app or store. Your server creates each invoice in your wallet over a receive-only NWC connection (`get_info`, `make_invoice`, `list_transactions`) and, by default, refuses a connection that can spend. It has packages for Node, Python, PHP and Ruby, and plugins for WooCommerce, Medusa and BTCPay Server.
+
+Visit: [https://openreceive.org/](https://openreceive.org/)
 
 ## Tools
 

@@ -17,6 +17,8 @@ Alby Hub is encrypted with the password you chose during setup. Only you can dec
 
 #### Before You Start
 
+For a new self-hosted destination running Alby Hub v1.24.7 or later, we recommend enabling a [setup code](../alby-hub-flavors/README.md) before starting it. The official Linux and Raspberry Pi installers generate one automatically. If prompted when opening the new Hub, enter **the destination Hub's setup code** before continuing with onboarding or importing your migration file. This is separate from your existing Hub's unlock password and recovery phrase.
+
 {% hint style="danger" %}
 * Make sure to have your **12-word recovery phrase** and **unlock password** securely backed up.
 * During and after the migration, **do not restart your original Alby Hub instance**. Running both instances may cause issues such as force-closing lightning channels.

@@ -50,6 +50,10 @@ The Alby Account 🐝 is **highly recommended** (though not technically required
 
 Follow the onboarding steps, where you can choose between different [self-hosting options](https://getalby.com/alby-hub#download) such as a cloud server, a personal server or your desktop.
 
+{% hint style="info" %}
+**Asked for a setup code?** For self-hosted installations with setup-code protection enabled, open the setup link printed by the installer or enter the code shown during installation. For a manual Docker or cloud deployment, use the `SETUP_CODE` you configured. Keep it private: this is a separate code for initial setup, not your unlock password or wallet recovery phrase. See the [self-hosting guides](alby-hub-flavors/README.md) for configuration details.
+{% endhint %}
+
 After installing Alby Hub, you’ll see a list of tasks to complete the setup:
 
 1. Open your first payment channel to connect to the Bitcoin Lightning Network

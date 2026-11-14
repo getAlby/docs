@@ -12,6 +12,18 @@ To make the deployment of Alby Hub in the cloud as easy as possible, find guides
 Use the HTTPS endpoint provided by the deployment platform. Do not expose Alby Hub's raw HTTP port `8080` directly to the public internet. If you configure a cloud deployment manually, keep the HTTP service behind a restricted HTTPS reverse proxy or access it through a VPN.
 {% endhint %}
 
+## Protect initial setup
+
+For a new self-hosted cloud deployment running Alby Hub v1.24.7 or later, we recommend setting a random `SETUP_CODE` environment variable **before the first start**, not after the public URL becomes available. This prevents someone without the code from completing the initial setup or importing a migration file before you do.
+
+Generate a random code locally with `openssl rand -hex 16` and configure it as `SETUP_CODE` in your hosting platform's environment variables or secrets. For Docker deployments, follow the [setup-code instructions](docker.md#protect-initial-setup-with-a-setup-code), including passing the variable into the container. Do not assume a one-click deployment template enables it automatically.
+
+Open your Hub using the platform's HTTPS URL and enter the code when prompted. Alternatively, append `?c=YOUR_RANDOM_CODE` to the URL, replacing the placeholder with your code. Keep the code and any link containing it private.
+
+The official Linux and Raspberry Pi install scripts generate a setup code automatically and print it with a setup link. If you use one of these scripts on your cloud server, use the generated code with your secure access URL rather than exposing the raw HTTP port.
+
+The setup code is not your unlock password or recovery phrase. It is no longer required once setup is complete and does not replace the network-access precautions above.
+
 ## Overview
 
 ### Deploy on Fly.io

@@ -118,6 +118,40 @@ Save the file and exit.
 
 In nano, press `Ctrl + O`, then `Enter`, then `Ctrl + X`.
 
+### Protect initial setup with a setup code
+
+Before starting a new Hub, we recommend setting a random `SETUP_CODE`, especially if the Hub will be reachable from another device. This requires Alby Hub v1.24.7 or later and prevents someone without the code from completing initial setup or importing a migration file before you do.
+
+Generate a random code locally:
+
+```bash
+openssl rand -hex 16
+```
+
+Keep the output private. In your Alby Hub deployment folder, create a file named `.env` and add the following line, replacing `YOUR_RANDOM_CODE` with the generated value:
+
+```dotenv
+SETUP_CODE=YOUR_RANDOM_CODE
+```
+
+Restrict access to the file and do not commit it to a public repository:
+
+```bash
+chmod 600 .env
+```
+
+For **both the downloaded and manually created Compose file**, add this entry under the existing `environment:` section, alongside `WORK_DIR`:
+
+```yaml
+      - SETUP_CODE=${SETUP_CODE:?Set SETUP_CODE in .env before starting Alby Hub}
+```
+
+Compose reads `.env` from the deployment folder and passes the code to Alby Hub through this entry. Creating `.env` alone does not pass it into the container.
+
+{% hint style="info" %}
+The setup code protects initial onboarding, including restoring into a new Hub. It is not your unlock password or recovery phrase, and it is no longer required once setup is complete. It does not replace the private-network, firewall, or HTTPS precautions above.
+{% endhint %}
+
 ### Step 3: Start Alby Hub
 
 Start Alby Hub in the background:
@@ -176,7 +210,7 @@ If you are using LDK, port `9735` must be reachable from the internet for Lightn
 
 ### Step 5: Set up Alby Hub
 
-Click **Get Started** and follow the setup flow inside Alby Hub.
+Enter the setup code from your `.env` file when prompted, then click **Get Started** and follow the setup flow inside Alby Hub. Alternatively, open your Hub URL with `?c=YOUR_RANDOM_CODE` appended, using your actual code. Keep the code and any link containing it private.
 
 During setup, save any important recovery or backup information shown by Alby Hub.
 
@@ -227,11 +261,14 @@ First, create the persistent storage folder:
 mkdir -p ~/albyhub/albyhub-data
 ```
 
+Before starting a new Hub, generate a setup code and save it in `~/albyhub/.env` as described in [Protect initial setup with a setup code](#protect-initial-setup-with-a-setup-code). The `--env-file` option below passes it into the container; you do not need a Compose file for this method.
+
 Then start Alby Hub:
 
 ```
 docker run -d \
   --name albyhub \
+  --env-file ~/albyhub/.env \
   -v ~/albyhub/albyhub-data:/data \
   -e WORK_DIR=/data/albyhub \
   -p 127.0.0.1:8080:8080 \
@@ -244,6 +281,7 @@ If you plan to use LDK, also publish port `9735`:
 ```
 docker run -d \
   --name albyhub \
+  --env-file ~/albyhub/.env \
   -v ~/albyhub/albyhub-data:/data \
   -e WORK_DIR=/data/albyhub \
   -p 127.0.0.1:8080:8080 \

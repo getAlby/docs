@@ -10,6 +10,8 @@ Alby Hub is 100% [open source](https://github.com/getAlby/hub). You can [run Alb
 When self-hosting Alby Hub with Docker or Linux, do not expose its HTTP port directly to the public internet. Keep it on a secure private network and restrict access with a firewall. For remote access, use a VPN or a restricted HTTPS reverse proxy. Cloud deployments should use the HTTPS endpoint provided by the platform instead of publishing the raw HTTP port.
 {% endhint %}
 
+For new self-hosted HTTP-server deployments, we recommend protecting onboarding with a random `SETUP_CODE` before the first start (Alby Hub v1.24.7 or later). The official Linux and Raspberry Pi install scripts generate it automatically; configure it yourself for [Docker](docker.md#protect-initial-setup-with-a-setup-code) or [other cloud deployments](other-cloud-options.md#protect-initial-setup). This protects initial setup, not ongoing access, and does not replace the network precautions above.
+
 Here are your options to run your Alby Hub
 
 {% content-ref url="other-cloud-options.md" %}
